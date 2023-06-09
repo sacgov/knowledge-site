@@ -1,0 +1,4 @@
+baseURL = 'https://notes.sachingovind.com/'
+languageCode=  "en-us"
+title= "Sachin's Notes"
+theme= "hugo-book"
