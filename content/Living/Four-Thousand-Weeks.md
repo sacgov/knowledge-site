@@ -6,7 +6,7 @@ date modified: Tuesday, June 13th 2023, 11:40:09 pm
 
 # Four-thousand-weeks
 
-My understanding of the book [Four-Thousand-Weeks: Time Management for Mortals]( https://www.goodreads.com/en/book/show/54785515 )
+My understanding of the book [Four-Thousand-Weeks: Time Management for Mortals](%20https://www.goodreads.com/en/book/show/54785515%20)
 
 Assuming you live to be eighty, you’ll have had about Four-Thousand-Weeks.
 
@@ -155,7 +155,7 @@ Results aren’t everything. Indeed, they’d better not be, because results alw
 
 ### Impatience with Finitude of time
 
-The pointless honk is thus symptomatic of another important way in which we’re unwilling to acknowledge our limitations when it comes to our time: it’s a howl of rage at the fact that the honker can’t prod the world around him into moving as fast as he’d like it to. [Eliminate Hurry](Living-a-good-life.md#Eliminating%20Hurry%20&%20Impatience%20).
+The pointless honk is thus symptomatic of another important way in which we’re unwilling to acknowledge our limitations when it comes to our time: it’s a howl of rage at the fact that the honker can’t prod the world around him into moving as fast as he’d like it to. [Eliminate Hurry](Living/Living-a-good-life.md#Eliminating%20Hurry%20&%20Impatience%20).
 
 Virtually every new technology, from the steam engine to mobile broadband, has permitted us to get things done more quickly than before. Shouldn’t this therefore have reduced our impatience, by allowing us to live at something closer to the speed we’d prefer? Yet since the beginning of the modern era of acceleration, people have been responding not with satisfaction at all the time saved but with increasing agitation that they can’t make things move faster still
 
@@ -185,7 +185,7 @@ There’s the profound sense of meaning that comes from being willing to fall in
 
 ## Dent in the Universe
 
-There have only been a few dozen such people in the entire history of humanity. In other words, you almost certainly won’t put a dent in the universe. Indeed, depending on the stringency of your criteria, even Steve Jobs, who coined that phrase, failed to leave such a dent. Perhaps the iPhone will be remembered for more generations than anything you or I will ever accomplish; but from a truly cosmic view, it will soon be forgotten, like everything else. Read more [Kinder-Version-of-Success](Kinder-Version-of-Success.md)
+There have only been a few dozen such people in the entire history of humanity. In other words, you almost certainly won’t put a dent in the universe. Indeed, depending on the stringency of your criteria, even Steve Jobs, who coined that phrase, failed to leave such a dent. Perhaps the iPhone will be remembered for more generations than anything you or I will ever accomplish; but from a truly cosmic view, it will soon be forgotten, like everything else. Read more [Kinder-Version-of-Success](Success/Kinder-Version-of-Success.md)
 
 ## Final Words and Questions to Ourselves
 

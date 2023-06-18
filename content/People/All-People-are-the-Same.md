@@ -6,4 +6,4 @@ date modified: Tuesday, June 13th 2023, 11:41:12 pm
 
 # All People Are the Same
 
-![People-are-same](People-are-same.jpeg)
+![People-are-same](assets/People-are-same.jpeg)

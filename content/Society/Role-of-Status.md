@@ -40,6 +40,6 @@ Attractiveness is a part of appearance. But it is the most important part of app
 
 Attractiveness leads to 10-15 % increase in value.
 
-Conventionally Non - attractive women have it ever worse than men. Because it is even more difficult for women to project dominance and other traits in [Appearance](Role-of-Status.md#Appearance).
+Conventionally Non - attractive women have it ever worse than men. Because it is even more difficult for women to project dominance and other traits in [Appearance](Society/Role-of-Status.md#Appearance).
 
 Dressing professionally to signal dominance helps conventionally non-attractive people.

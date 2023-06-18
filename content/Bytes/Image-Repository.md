@@ -8,8 +8,8 @@ date modified: Tuesday, June 13th 2023, 3:22:23 am
 
 ## Email Management
 
-![](/assets/Email-Management.png)
+![Email-Management](assets/Email-Management.png)
 
 ## Why people quit their jobs?
-![](/assets/why-people-quit-jobs.jpeg)
+![why-people-quit-jobs](assets/why-people-quit-jobs.jpeg)
 

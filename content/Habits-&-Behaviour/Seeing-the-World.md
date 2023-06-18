@@ -43,7 +43,7 @@ The people who know us well are good observers of our behaviour, and they can de
 We maybe underestimate how much, sometimes we're all alike in our preferences. We tend to like the same kind of movies, and for college women, we have similar impressions of another college man. This means not getting a date would mean no date and getting a date would mean lots of dates
 
 If another woman liked me, that would mean a lot of women would like me. This is the result of a Dan Gilbert's study. This is outright depressing.
-This means someone getting a job will get lot of jobs and someone getting a date will get lots of dates. [Unfairness of the Game](Winning-the-game-of-life.md#Unfairness%20of%20the%20Game)
+This means someone getting a job will get lot of jobs and someone getting a date will get lots of dates. [Unfairness of the Game](Living/Winning-the-game-of-life.md#Unfairness%20of%20the%20Game)
 You either play games in which you have the unfair advantage or work hard to at least do averagely well in games we are disadvantaged.
 
 ## How We See Ourselves?
@@ -53,8 +53,8 @@ We are harsher in how we see ourselves as we have fuller picture of ourselves th
 ### Chatter
 
 The inner critic just wants to keep us safe. It wants to improve us. We also call it chatter.
-[Temporal Distancing](Chatter.md#Temporal%20Distancing)
-[How is Chatter Created ?](Chatter.md#How%20is%20Chatter%20Created%20?)
+[Temporal Distancing](Mental-Wellness/Chatter.md#Temporal%20Distancing)
+[How is Chatter Created ?](Mental-Wellness/Chatter.md#How%20is%20Chatter%20Created%20?)
 
 when we make a mistake or fail, it's scary, we feel frightened, we feel threatened.
 

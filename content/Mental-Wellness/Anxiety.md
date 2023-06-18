@@ -59,7 +59,7 @@ If there is nothing you can do about your worry, you need not worry—and if the
 
 ## Letting Go
 
-[Notes on Letting Go Elsewhere](Acceptance.md#Letting%20Go%20)
+[Notes on Letting Go Elsewhere](Mental-Wellness/Acceptance.md#Letting%20Go%20)
 Letting go of the past and acceptance Forgive your past self, you’ve changed.
 
 ## Distorting Reality

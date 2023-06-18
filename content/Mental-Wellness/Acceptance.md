@@ -39,7 +39,7 @@ Arrogance is just a cover-up for really feeling that you’re the worst horse, a
 We must see our so-called limitations with clarity, precision, gentleness, kindness.
 Having seen them fully, then let go, open further, we begin to find that our world is vast, refreshing and more fascinating than we had realised before.
 
-Always meditate on whatever provokes resentment. Instead of the resentment being an obstacle, it’s a reminder. Feeling irritated, restless, afraid, and hopeless is a reminder to listen more carefully. It’s a reminder to stop talking; watch and listen. It’s a reminder to use [Tonglen](Acceptance.md#Tonglen%20) practice.
+Always meditate on whatever provokes resentment. Instead of the resentment being an obstacle, it’s a reminder. Feeling irritated, restless, afraid, and hopeless is a reminder to listen more carefully. It’s a reminder to stop talking; watch and listen. It’s a reminder to use [Tonglen](Mental-Wellness/Acceptance.md#Tonglen%20) practice.
 
 ## Why is Desire to Change Bad
 
@@ -239,7 +239,7 @@ We don’t quite give ourselves full credit for who we are in the present.
 
 ## We Will Never Attain Ground - Disappointment
 
-You can always be [Thinner, Look Better](Links-Repository.md#Thinner%20,%20Look%20Better). But somehow there’s almost always a sense of disappointment, a sense of things not completely measuring up
+You can always be [Thinner, Look Better](Bytes/Links-Repository.md#Thinner%20,%20Look%20Better). But somehow there’s almost always a sense of disappointment, a sense of things not completely measuring up
 
 You’re never going to get it all together. There isn’t going to be some precious future time when all the loose ends will be tied up
 
@@ -303,7 +303,7 @@ She let go of the fear that I would grow old and die alone, that my friends woul
 
 ## Storytelling
 
-This is also related to [Reframing](ACT-Acceptance-Therapy.md#Reframing).
+This is also related to [Reframing](Habits-&-Behaviour/ACT-Acceptance-Therapy.md#Reframing).
 The story you tell yourself about yourself.
 Creating a narrative from the events of your life brings clarity.
 It helps you understand how you became you.
@@ -380,7 +380,7 @@ Advertisers showing only the best before-and-after photos what we see is picture
 
 ### Inter-personal Gap
 
-where we compare our reality to the reality of social media image projected. [Social Media effects](Chatter.md#Effect%20of%20Social%20Media)
+where we compare our reality to the reality of social media image projected. [Social Media effects](Mental-Wellness/Chatter.md#Effect%20of%20Social%20Media)
 We're actually happier when we're with worse looking people because we're perceived by others to be objectively better
 
 We prioritise we focus on one end of the spectrum we focus on the rich the famous the beautiful and pay less attention to the other end and so we're made to seem poorer. We're made to feel less successful than we actually are.

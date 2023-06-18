@@ -4,7 +4,7 @@ date created: Saturday, June 10th 2023, 6:22:07 pm
 date modified: Monday, June 12th 2023, 5:00:46 pm
 ---
 
-[ A Story of luck](Links-Repository.md#Story%20of%20Luck%20)
+[ A Story of luck](Bytes/Links-Repository.md#Story%20of%20Luck%20)
 
 Eric has Nova a dog that runs after a rabbit and is lost
 

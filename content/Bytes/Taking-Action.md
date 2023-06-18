@@ -8,7 +8,7 @@ date modified: Friday, June 16th 2023, 3:49:32 pm
 
 # Mindset
 
-If you don’t see yourself as the kind of person who has what it takes to accomplish world-class results, you won’t even start to do the actions required to achieve world-class results. [Desperation towards a Goal](Guilt-And-Motivation.md#Desperation%20towards%20a%20Goal)
+If you don’t see yourself as the kind of person who has what it takes to accomplish world-class results, you won’t even start to do the actions required to achieve world-class results. [Desperation towards a Goal](Habits-&-Behaviour/Guilt-And-Motivation.md#Desperation%20towards%20a%20Goal)
 People who do great things typically have a great drive to do things.
 
 ## Action & Will
@@ -30,7 +30,7 @@ And Winter is here.
 And the song that I meant to sing remains unsung.
 For I have spent my days stringing and unstringing my instrument.
 
-See also [Fading out - Sylvia Plath](Fading-out-Sylvia-Plath.md)
+See also [Fading out - Sylvia Plath](Bytes/Fading-out-Sylvia-Plath.md)
 
 Applied to today, a reminder that how you live each day really does matter. It changes the future.
 
@@ -38,27 +38,27 @@ We wake up every day with 100 ten-minute time blocks at our disposal. If you fee
 
 ## Regret of Inaction
 
-[Inaction Regrets](Regret.md#Inaction%20Regrets) outnumber regretting action 2:1.
+[Inaction Regrets](Living/Regret.md#Inaction%20Regrets) outnumber regretting action 2:1.
 
 ## Actions Unlock Possibilities
 
 A Cartoon by Tim Urban. Picked from [here](https://twitter.com/waitbutwhy/status/1476962460049584136/photo/1)
-![Open paths](action-open-paths.jpeg)
+![Open paths](assets/action-open-paths.jpeg)
 
 ## Why Act when I Am Destined to Fail
 
 Reality of the situation vs who it feels
-![reality-of-situation](reality-of-situation.png)
+![reality-of-situation](assets/reality-of-situation.png)
 
 ## Why Would I Succeed. Am I Special?
 
 Everyone is special. You only have to believe so.
 Believing is a self-fulfilling prophecy.
-![panda-special](panda-special.jpeg)
+![panda-special](assets/panda-special.jpeg)
 
 ## Working towards Our Dream
 
-[Henry David Thoreau]( https://en.wikipedia.org/wiki/Henry_David_Thoreau ) in Walden
+[Henry David Thoreau](%20https://en.wikipedia.org/wiki/Henry_David_Thoreau%20) in Walden
 
 > I learned this, at least, by my experiment: that if one advances confidently in the direction of his dreams, and endeavours to live the life which he has imagined, he will meet with a success unexpected in common hours
 

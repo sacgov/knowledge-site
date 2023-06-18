@@ -55,7 +55,7 @@ Think like saving a life from fire.
 
 That said, the quality target can be really really high. In fact, the quality target is sometimes unattainably high. Often, we simply aren't capable of hitting our quality targets, and in those cases, we do want to push as far right along the preference curve as we can.
 
-![]( https://mindingourway.com/content/images/2015/Mar/Quality1.png )
+![ https://mindingourway.com/content/images/2015/Mar/Quality1.png ](%20https://mindingourway.com/content/images/2015/Mar/Quality1.png%20)
 
 This can occur naturally whenever you work on something difficult relative to your skill level, or in competitive situations, or if you're signalling your ability to work hard. But don't get confused. Even if you write for the love of writing, you eventually have to stop editing and call it finished. Even if you're getting somebody out of a burning building, you eventually stop putting effort towards ensuring that they survive in favour of putting that effort towards saving other dying people instead.
 
@@ -65,7 +65,7 @@ But what if "get the minimum passing grade as quick as possible" is also boring
 
 Get out of college. Simple do not them
 
-![]( https://mindingourway.com/content/images/2015/Mar/Quality2.png )
+![ https://mindingourway.com/content/images/2015/Mar/Quality2.png ](%20https://mindingourway.com/content/images/2015/Mar/Quality2.png%20)
 
 I'm compelled to do my best.
 
@@ -219,7 +219,7 @@ Then it is useful to be able to choose "bad," without suffering over it.
 Next time you find yourself feeling flustered because none of your options pass an absolute acceptability threshold, pause and reframe, and look at the relative acceptability of your actions instead.
 
 Take it, without suffering, no matter how bad it is. That is all there is to do.
-[Read More on Suffering](ACT-Acceptance-Therapy.md#Pain%20and%20Suffering)
+[Read More on Suffering](Habits-&-Behaviour/ACT-Acceptance-Therapy.md#Pain%20and%20Suffering)
 
 **Treat it not as bad news about how reality went, but rather treat it as you would treat information about where in the multiverse you ended up.**
 
@@ -240,7 +240,7 @@ To succeed, stop generating reasons why you never could have won, and play to wi
 Assume the worst and be ready for it.
 Come to terms with what could happen. Imagine the worst case, in detail; learn to weigh it on your scales; accept that if you fail things could go very poorly; and then maybe those bad outcomes will loosen their grip on you.
 
-Visualise it in full detail. Don't need to excuse it. Don't tell yourself it wouldn't be your fault. Don't tell yourself it would be fine. Don't make up a story about how you'd handle it successfully. Just imagine the worst. [Stoicism](Stoicism.md) advocates this too.
+Visualise it in full detail. Don't need to excuse it. Don't tell yourself it wouldn't be your fault. Don't tell yourself it would be fine. Don't make up a story about how you'd handle it successfully. Just imagine the worst. [Stoicism](Living/Stoicism.md) advocates this too.
 
 So don't get paralysed looking for the right thing to do. Just find the best action you can find,
 

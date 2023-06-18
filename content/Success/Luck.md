@@ -35,4 +35,4 @@ You need to understand that everyone who helps you on your journey is playing a 
 
 Also read
 
-[A Story on Luck](A-story-on-luck.md)
+[A Story on Luck](Bytes/A-story-on-luck.md)

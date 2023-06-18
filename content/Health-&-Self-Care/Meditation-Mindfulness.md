@@ -231,5 +231,5 @@ Fourth way of freeing yourself from time is to simplify your life in certain way
 
 ## Simplifying
 
-This is basically [Essentialism](Essentialism.md)
+This is basically [Essentialism](Living/Essentialism.md)
 Simplifying may mean prioritising the things that you have to and want to do and, at the same time, consciously choosing to give certain things up. It may mean learning to say no sometimes, even to things you want to do or to people you care about and want to help, so that you are protecting and preserving some space for silence, for non-doing—and for everything you have already said yes previously.

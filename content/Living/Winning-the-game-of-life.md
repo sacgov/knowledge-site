@@ -43,7 +43,7 @@ If your state gets too low in one area, _your body will disobey your own instru
 You need to put time into things that ensure a healthy state – like food and sleep – to keep your willpower high. Then you need to develop your skills with what you have left.
 
 Some Endeavours lead to a lot of opportunities and others lead to dead ends.
-![]( https://oliveremberton.com/app/uploads/2014/02/Skills.png )
+![ https://oliveremberton.com/app/uploads/2014/02/Skills.png ](%20https://oliveremberton.com/app/uploads/2014/02/Skills.png%20)
 ![](https://oliveremberton.com/app/uploads/2014/02/Dead-skills.png)
 Some skills are more valuable than others. Good ones can open up whole paths like a tech tree. Others are dead ends like **juggling**
 
@@ -51,9 +51,9 @@ It’s very hard to max out one skill to be the best – in fact, that’s often
 
 This should decide the direction of efforts
 
-![3ae800c1f8ee7df8f40216db83f95b04_MD5](3ae800c1f8ee7df8f40216db83f95b04_MD5.png)
+![3ae800c1f8ee7df8f40216db83f95b04_MD5](assets/3ae800c1f8ee7df8f40216db83f95b04_MD5.png)
 
-![fb11c0ec7919c17b8513ad46d91a680b_MD5](fb11c0ec7919c17b8513ad46d91a680b_MD5.png)
+![fb11c0ec7919c17b8513ad46d91a680b_MD5](assets/fb11c0ec7919c17b8513ad46d91a680b_MD5.png)
 
 ## Where You Live
 
@@ -75,8 +75,8 @@ The real rules are there. They actually make sense. But they’re a bit more com
 
 ## Rules of the World
 
-![reward-assumed](/assets/reward-02.png)
-![Reward-ACtual](/assets/reward-01.png)
+![reward-assumed](assets/reward-02.png)
+![Reward-ACtual](assets/reward-01.png)
 
 ### Rule #1 : Life is a Competition
 
@@ -95,14 +95,14 @@ A cancer researcher is rewarded less than a supermodel. Why? Because those abili
 ### Rule #3 . Our Idea of Fairness is Self Interest
 
 Reality is indifferent. You studied hard, but you failed the exam. You worked hard, but you didn’t get promoted. You love her, but she won’t return your calls.
-[](Thinking-Clearly.md#What%20is%20Reality%20-%20Being%20Hyper%20Realistic?)
+[](Improving-Thinking/Thinking-Clearly.md#What%20is%20Reality%20-%20Being%20Hyper%20Realistic?)
 
 Take a proper look at that person you fancy but didn’t fancy you back. That’s a complete person. A person with years of experience being someone completely different to you. A real person who interacts with hundreds or thousands of other people every year. Now what are the odds that among all that, you’re automatically their first pick for love-of-their-life? Because what - you exist? Because you feel something for them? That might matter to you, but their decision is not about you.
 
 Maybe someone has different priorities to you – like, say, long term growth over short term happiness. Our idea of fairness isn’t actually obtainable. It’s really just a cloak for wishful thinking. Facing that reality might just be the key to unlocking your understanding of the world, and with it, all of your potential.
 
 **Some people are smart, beautiful, rich, talented. Others aren't. You're part of the latter.**
-[Acceptance](Acceptance.md) helps.
+[Acceptance](Mental-Wellness/Acceptance.md) helps.
 
 ## Finding Solace in Unfairness
 
@@ -114,7 +114,7 @@ This is why it’s important for me to believe in innate ability, and especially
 
 If everyone is legitimately a different person with a different brain and different talents and abilities, then all God gets to ask me is whether or not I was Sachin Govind.
 
-This seems like a gratifyingly low bar. See also [How-to-measure-Life](How-to-measure-Life.md).
+This seems like a gratifyingly low bar. See also [How-to-measure-Life](Living/How-to-measure-Life.md).
 
 # Coping Mechanisms
 
@@ -164,7 +164,7 @@ We are responsible for experiences that aren’t our fault all the time.
 In the end, James turned around his life. He is the Father of American psychology.
 
 Actions effect our emotions. Actions give us hope.
-Always [Take Action](Taking-Action.md)
+Always [Take Action](Bytes/Taking-Action.md)
 
 # What if I Fail
 

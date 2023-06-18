@@ -99,7 +99,7 @@ Quadriplegics and earthquake victims generally rate themselves as much happier t
 We all look at our version of reality through rose coloured lenses, but that version still needs to feel credible. If it's too good, then we will reject it.
 People actually feel less pain when they believe they are suffering for something of great value.
 
-Add meaning to your suffering. Rather [forge a meaning](Personal-Renewal.md#Meaning%20) instead of finding one.
+Add meaning to your suffering. Rather [forge a meaning](Living/Personal-Renewal.md#Meaning%20) instead of finding one.
 
 ## Psychological Immune Systems
 

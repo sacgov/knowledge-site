@@ -21,14 +21,14 @@ We optimise for profitability. We try to squeeze in more work in every extra hal
 
 ### Choosing the Right Yardstick is Important
 
-In [How to measure Life](How-to-measure-Life.md) , Christenson argues that a life could measure better than the position in the org hierarchy or status. We are placed in situations throughout our life.
+In [How to measure Life](Living/How-to-measure-Life.md) , Christenson argues that a life could measure better than the position in the org hierarchy or status. We are placed in situations throughout our life.
 
 1. Have we done well and will the people in the situations remember us fondly
-2. Have i used the skills bestowed upon me improving the lives of people i care about from an anime i like. [A Good Ending](Links-Repository.md#Good%20Death%20).
+2. Have i used the skills bestowed upon me improving the lives of people i care about from an anime i like. [A Good Ending](Bytes/Links-Repository.md#Good%20Death%20).
 
 ### Choosing a Kinder Version of Measurement
 
-If were to imagine a successful person, we conjure a picture in our brain. Today we are made to believe, one can [achieve anything](Kinder-Version-of-Success.md#Achievement%20and%20Expectation%20). Our [notions of success](Kinder-Version-of-Success.md#Our%20notions%20of%20success%20) are
+If were to imagine a successful person, we conjure a picture in our brain. Today we are made to believe, one can [achieve anything](Success/Kinder-Version-of-Success.md#Achievement%20and%20Expectation%20). Our [notions of success](Success/Kinder-Version-of-Success.md#Our%20notions%20of%20success%20) are
 influenced by the society. It is okay to not become a wildly successful or reach the top of the social hierarchy. It is worth pursuing these goals.
 We can be kind on ourselves on not being that idealistic person. After all humans are fallible.
 
@@ -52,7 +52,7 @@ Good health is the precursor to all achievements. Take health seriously.
 
 ### Time
 
-[Fading out - Sylvia Plath](Fading-out-Sylvia-Plath.md)
+[Fading out - Sylvia Plath](Bytes/Fading-out-Sylvia-Plath.md)
 
 ### Education
 
@@ -90,11 +90,11 @@ Craft a story around the pain. It builds identity.
 We cannot endure a pointless torment but we can endure great pain if it's purposeful.
 
 While it is true that not all pains can be purposeful like the death of a loved one.
-[Acceptance](Acceptance.md) helps with this.
+[Acceptance](Mental-Wellness/Acceptance.md) helps with this.
 
 ## Eliminating Hurry & Impatience
 
-Get rid of [Hurry sickness](Giving-Up-Hurry.md#Hurry%20Sickness). We are not short of time. Definitely not short of the time it takes to be peaceful at a traffic junction. There is no reason to be flustered waiting at a line.
+Get rid of [Hurry sickness](Living/Giving-Up-Hurry.md#Hurry%20Sickness). We are not short of time. Definitely not short of the time it takes to be peaceful at a traffic junction. There is no reason to be flustered waiting at a line.
 
 Being patient with achieving results. Getting off a diet because we did not lose 5 kgs in the initial week of the diet and reevaluating a solution constantly is futile.
 

@@ -12,7 +12,7 @@ date modified: Friday, June 16th 2023, 4:22:36 pm
 
 ## Secret to Self Control
 
-[Link]( https://youtu.be/tTb3d5cjSFI?t=800 )
+[Link](%20https://youtu.be/tTb3d5cjSFI?t=800%20)
 
 ## Story of Luck
 

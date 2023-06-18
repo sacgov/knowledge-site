@@ -28,10 +28,10 @@ Forming a close bond with cousins is even easier. Most of the values run within 
 
 Relationships are the single most deciding factor of happiness by large.
 Staying close to the community that welcomes us and does not see us as alien is important. It is for this very reason we see clustering of immigrants in other cities and countries.
-[Alone Experiences Do not matter](Four-Thousand-Weeks.md#Alone%20Experiences)
+[Alone Experiences Do not matter](Living/Four-Thousand-Weeks.md#Alone%20Experiences)
 
 
-[A good life](Links-Repository#What Makes a Good Life) is one that is filled with loving relations.
+[A good life](Bytes/Links-Repository.md#What%20Makes%20a%20Good%20Life) is one that is filled with loving relations.
 
 ## Kids
 
@@ -53,7 +53,7 @@ If it requires one to migrate to a far away city within India for opportunity, t
 
 ### Visa Issues
 
-WE can argue that most people who go abroad somehow manage and work around these issues. But this takes mental bandwidth. [It is mind taxing](Scarcity.md#**Poverty%20Taxes%20the%20Mind**). Our creativity is diminished. A part of our mind is consumed with Visa troubles.
+WE can argue that most people who go abroad somehow manage and work around these issues. But this takes mental bandwidth. [It is mind taxing](Improving-Thinking/Scarcity.md#**Poverty%20Taxes%20the%20Mind**). Our creativity is diminished. A part of our mind is consumed with Visa troubles.
 Such a life is not lived freely. It is always better to move to a country with lesser visa troubles and if possible lesser taxes.
 
 ## Case towards Migrating abroad
@@ -107,7 +107,7 @@ We also are leaving the potential opportunity for the following
 
 ## What about the Regret of "If only I Had moved"?
 
-[Regret](Regret.md) of not doing things is stronger than the things we do.
+[Regret](Living/Regret.md) of not doing things is stronger than the things we do.
 My personal opinion is to move for a few years. This alleviates the regret.
 
 But i most people acquiesce to the demands of the newer environment. Slowly they get lazy on maintaining connections. I see myself doing that too.

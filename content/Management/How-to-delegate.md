@@ -6,7 +6,7 @@ date modified: Tuesday, June 13th 2023, 11:40:50 pm
 
 # How to Delegate?
 
-![](/assets/Delegation.png)
+![Delegation](assets/Delegation.png)
 
 ## **Before Delegation**
 

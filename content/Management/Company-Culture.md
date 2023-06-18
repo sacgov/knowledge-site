@@ -1,8 +1,10 @@
 ---
 title: Company Culture
 date created: Saturday, June 10th 2023, 7:59:21 pm
-date modified: Saturday, June 10th 2023, 8:00:26 pm
+date modified: Saturday, June 17th 2023, 4:32:58 pm
 ---
+
+# Company Culture
 
 In recent times, a lot has been researched and written about attributes that make great product building cultures. Psychological safety, willingness to fail, bottoms up planning etc. The list is long. But what I have observed is that for each of these values, there is an opposite yet complementary force. Hence the Yin/Yang.
 

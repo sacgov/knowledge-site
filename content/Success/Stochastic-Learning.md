@@ -22,7 +22,7 @@ Error in the model. We want to reduce the error to a minimum. Error represent th
 
 We change the parameters of the function to minimise the cost function
 
-![](/assets/Gradient-Descent.png)
+![Gradient-Descent](assets/Gradient-Descent.png)
 
 We try to reduce cost and reach a minima in the cost function.
 
@@ -32,7 +32,7 @@ The algorithm designer can set the learning rate. If we use a learning rate that
 
 ## Types of Gradient Descent
 
-![](/assets/stochastic-variations_comparison.png)
+![stochastic-variations_comparison](assets/stochastic-variations_comparison.png)
 
 ### 1. Batch Gradient Descent
 

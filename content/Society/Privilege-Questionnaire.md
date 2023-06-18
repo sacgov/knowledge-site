@@ -13,7 +13,7 @@ Questionnaire
 Few women answered negatively to money related questions
 Few men answered negatively on affection related questions
 Pretty people lead lives differently to non conventionally pretty people
-Wealthy people lead a vastly different life compared to someone not having basic needs met. [Scarcity](Scarcity.md) is pervasive in people without privilege.
+Wealthy people lead a vastly different life compared to someone not having basic needs met. [Scarcity](Improving-Thinking/Scarcity.md) is pervasive in people without privilege.
 
 1. If parents worked nights and weekend
 2. If you can show PDA to a partner

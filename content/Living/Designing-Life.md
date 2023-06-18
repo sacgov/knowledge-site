@@ -33,7 +33,7 @@ Believing that there is only one solution. I should have already known it. Also 
 
 Problem #2
 
-Choosing a circumstance as a problem. Like my height or money of a musician. There is no solving it. Harbor only [Useful Thoughts](ACT-Acceptance-Therapy.md#Is%20My%20Thought%20Helpful?%20)
+Choosing a circumstance as a problem. Like my height or money of a musician. There is no solving it. Harbor only [Useful Thoughts](Habits-&-Behaviour/ACT-Acceptance-Therapy.md#Is%20My%20Thought%20Helpful?%20)
 
 If i was a musician who is going broke, My reasoning should be the following.
 Since i am not going to make money using music what can i do to sustain or what kind of living can i adopt.

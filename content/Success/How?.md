@@ -6,12 +6,12 @@ date modified: Tuesday, June 13th 2023, 2:17:53 pm
 
 # How?
 
-1. Fostering a Growth Mindset - Believing that is is success we aim for is possible by us and [Taking Action](Taking-Action.md)
+1. Fostering a Growth Mindset - Believing that is is success we aim for is possible by us and [Taking Action](Bytes/Taking-Action.md)
 2. Compounding - Focused investment of only one hour a day can double your lifetime output.
 3. Okay with failing - Be willing to appear foolish, to fail and bounce back.
 4. Tolerate Ambiguity - Thrive in ambiguity.
-5. Be [Antifragile](Definition-Repository.md#Antifragile)
-6. [Deliberate Practice](Deliberate-Practice.md)
+5. Be [Antifragile](Bytes/Definition-Repository.md#Antifragile)
+6. [Deliberate Practice](Success/Deliberate-Practice.md)
 7. Eliminate Self limiting beliefs
 
 Don't get hung up on your views of how things should be, because you will miss out on learning how they really are.

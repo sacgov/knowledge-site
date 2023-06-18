@@ -74,26 +74,26 @@ If we have three buttons and one is coloured then we pick the coloured one.
 
 ### Body
 
-![typeface-parts-of-a-letter](typeface-parts-of-a-letter.png)
-![typeface-body](typeface-body.png)
+![typeface-parts-of-a-letter](assets/Interfaces/typeface-parts-of-a-letter.png)
+![typeface-body](assets/Interfaces/typeface-body.png)
 
 ### Weight and Width
 
-![typeface-weights](typeface-weights.png)
+![typeface-weights](assets/Interfaces/typeface-weights.png)
 
 ### Stroke
 
-![typeface-stroke](typeface-stroke.png)
+![typeface-stroke](assets/Interfaces/typeface-stroke.png)
 
 ### Serif Vs sans Serif
 
-![typeface-serif](typeface-serif.png)
+![typeface-serif](assets/Interfaces/typeface-serif.png)
 
-### Heights & Weights ![typeface-weights](typeface-weights.png)
+### Heights & Weights ![typeface-weights](assets/Interfaces/typeface-weights.png)
 
-![typeface-height](typeface-height.png)
+![typeface-height](assets/Interfaces/typeface-height.png)
 
 ### Point Examples
 
-![typeface-point](typeface-point.png)
-![typeface-point-example](typeface-point-example.png)
+![typeface-point](assets/Interfaces/typeface-point.png)
+![typeface-point-example](assets/Interfaces/typeface-point-example.png)

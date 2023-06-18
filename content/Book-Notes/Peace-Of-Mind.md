@@ -6,7 +6,7 @@ date modified: Saturday, June 10th 2023, 5:16:30 pm
 
 Goodreads : [Link](https://www.goodreads.com/book/show/33597739-peace-of-mind)
 
-Also read some of Seneca's teachings at [Stoicism](Stoicism.md)
+Also read some of Seneca's teachings at [Stoicism](Living/Stoicism.md)
 
 1. Some vices appear on the surface, and so that I can lay my hands upon them, while others are less distinct and harder to reach, and some are not always present, but recur at intervals: and these I should call the most troublesome
 2. Seneca cares for thrift. Temperance in food and lodging that has less bearing on his mind and body

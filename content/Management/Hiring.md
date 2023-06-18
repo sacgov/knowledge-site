@@ -6,7 +6,7 @@ date modified: Tuesday, June 13th 2023, 12:16:17 am
 
 # Hiring
 
-[Julian's guide to hiring]( https://www.julian.com/guide/startup/hiring )
+[Julian's guide to hiring](%20https://www.julian.com/guide/startup/hiring%20)
 
 Interviewing
 
@@ -24,4 +24,4 @@ date modified: Saturday, June 10 th 2023, 8:13 pm
 
 # Hiring
 
-[ ](Julian's guide to hiring)( https://www.julian.com/guide/startup/hiring )
+[ ](Julian's%20guide%20to%20hiring)( https://www.julian.com/guide/startup/hiring )

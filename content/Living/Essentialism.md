@@ -25,7 +25,7 @@ Perfect is attained not when everything is attained but nothing left to remove
 
 The ability to choose cannot be given or taken away. It can only be forgotten.
 Practically everything is unimportant
-Apply [Pareto Principle](Definition-Repository.md#Pareto%20Principle%20) at all times
+Apply [Pareto Principle](Bytes/Definition-Repository.md#Pareto%20Principle%20) at all times
 
 We cannot attain a life without problems. But we can choose the problems we want to get into.
 
@@ -33,7 +33,7 @@ We cannot attain a life without problems. But we can choose the problems we want
 
 Sleep trumps everything in life.
 Prioritisation should be our priority as much as a paradox it sounds.
-When not a [Hell Yes](Definition-Repository.md#Hell%20Yes) ⇒ it is always a no.
+When not a [Hell Yes](Bytes/Definition-Repository.md#Hell%20Yes) ⇒ it is always a no.
 
 ## Saying no
 

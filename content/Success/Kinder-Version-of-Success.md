@@ -6,7 +6,7 @@ date modified: Saturday, June 10th 2023, 2:20:28 pm
 
 # Kinder-Version-of-Success
 
-Excerpt from the [Talk](Kinder-Version-of-Success)
+Excerpt from the [Talk](Success/Kinder-Version-of-Success.md)
 
 ## The Gap
 

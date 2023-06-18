@@ -26,7 +26,7 @@ Getting a publication can be an achievement for academics or a grant. But it is 
 
 I do not lament we find ourselves incapable of such achievement but that we that we do not entertain the thought.
 
-See Also [Kinder version of success](Kinder-Version-of-Success.md).
+See Also [Kinder version of success](Success/Kinder-Version-of-Success.md).
 
 Having a large ego in ambition is not petty at least in my books.
 

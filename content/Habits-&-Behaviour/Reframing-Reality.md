@@ -12,7 +12,7 @@ Is it ever enough? Will I ever do enough? Is any amount of training ever enough 
 
 Would climbing Everest be such a great feat if it was just a walk in the park? It's just a cold, dark night on the side of Everest This is it. This is what makes you great, what makes you succeed. Stress is the experience or anticipation of adversity in one's goal-related efforts
 
-Her father being a martial artist made her a gymnast. Losing weight is mental too. Alia Crumm got selected for nationals on a broken ankle. [Link]( https://www.youtube.com/watch?v=0tqq66zwa7g ).
+Her father being a martial artist made her a gymnast. Losing weight is mental too. Alia Crumm got selected for nationals on a broken ankle. [Link](%20https://www.youtube.com/watch?v=0tqq66zwa7g%20).
 
 We view mindsets as core assumptions that we make about the nature of ourselves or things in the world. They're beliefs, really. We have mindsets about our own abilities or our intelligence, but we also have mindsets about other things. Mindsets about the nature of stress, mindsets about the capabilities or limitations of our own bodies, mindsets about the enoughness of the foods that we're eating or the exercise we're doing. They're perspectives, they're lenses or frameworks, they're just assumptions about the meaning or the nature of those things.
 

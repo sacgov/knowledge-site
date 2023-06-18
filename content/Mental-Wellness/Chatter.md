@@ -46,7 +46,7 @@ This can take forms of food, TV shows or exercise. In worse case smoking, drugs 
 Tracey a high schooler in the US took up NSA’s scholarship. NSA would pay for her college and she in turn would work for NSA later on after graduation.
 She could major only in a handful of subjects that were central to the NSA’s interests: subjects like electrical engineering, computer science, and math. She couldn’t date or maintain close friendships with students from other countries. She couldn’t study abroad. She was discouraged from playing varsity sports. Slowly but surely Tracey’s scholarship, her golden ticket, was morphing into a pair of golden handcuff.
 She felt as if she had two options: fail out or drop out.
-We lose perspective. This dramatically narrowed view of one’s situation magnifies adversity and allows the negative side of the inner voice to play, enabling rumination and its companions: stress, anxiety, and depression. Read more about [Scarcity](Scarcity.md)
+We lose perspective. This dramatically narrowed view of one’s situation magnifies adversity and allows the negative side of the inner voice to play, enabling rumination and its companions: stress, anxiety, and depression. Read more about [Scarcity](Improving-Thinking/Scarcity.md)
 
 ## Temporal Distancing
 

@@ -22,7 +22,7 @@ Speech - word, vocabulary come from left but right gives the harmony to the voic
 
 Brain Schematic
 
-![parts-of-brain](parts-of-brain.jpg)
+![parts-of-brain](assets/parts-of-brain.jpg)
 
 It takes in outside stimulation through special sensory organs like the eyes, the nose and our ears. Our brains respond to the outside world mainly through the motor system. Voluntary movement is the result of a muscle contraction happening at the command of a corresponding motor neuron.
 
