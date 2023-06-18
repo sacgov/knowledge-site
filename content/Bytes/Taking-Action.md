@@ -8,7 +8,7 @@ date modified: Friday, June 16th 2023, 3:49:32 pm
 
 # Mindset
 
-If you don’t see yourself as the kind of person who has what it takes to accomplish world-class results, you won’t even start to do the actions required to achieve world-class results. [Desperation towards a Goal](Habits-&-Behaviour/Guilt-And-Motivation.md#Desperation%20towards%20a%20Goal)
+If you don’t see yourself as the kind of person who has what it takes to accomplish world-class results, you won’t even start to do the actions required to achieve world-class results. [Desperation towards a Goal](Habits-Behaviour/Guilt-And-Motivation.md#Desperation%20towards%20a%20Goal)
 People who do great things typically have a great drive to do things.
 
 ## Action & Will

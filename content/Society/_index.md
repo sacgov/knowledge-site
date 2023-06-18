@@ -7,9 +7,9 @@ bookCollapseSection: true
 
 # Society
 
-- [Give-And-Take](Society/Give-And-Take)
-- [Negotiation](Society/Negotiation)
-- [Privilege-Questionnaire](Society/Privilege-Questionnaire)
-- [Role-of-Status](Society/Role-of-Status)
-- [The-cost-of-trust](Society/The-cost-of-trust)
+- [negotiation](/society/negotiation)
+- [privilege-questionnaire](/society/privilege-questionnaire)
+- [role-of-status](/society/role-of-status)
+- [the-cost-of-trust](/society/the-cost-of-trust)
+- [give-&-take](/society/give-&-take)
 

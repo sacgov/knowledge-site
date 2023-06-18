@@ -11,7 +11,7 @@ I do have slight acne scars that i wish to heal.
 # What I Do Currently
 
 Cleanse my face thrice a day, ideally baking it into a daily routine.
-Apply moisturiser and vitamin C serum. [Order](Health-&-Self-Care/Skin-Care.md#Order%20of%20application%20) matters.
+Apply moisturiser and vitamin C serum. [Order](Health-Self-Care/Skin-Care.md#Order%20of%20application) matters.
 Apply sunscreen while going out regardless of weather
 Wear sunglasses and possibly a [Balaclava](https://www.amazon.in/balaclava/s?k=balaclava) while riding my bike.
 Apply an under eye ointment weekly.

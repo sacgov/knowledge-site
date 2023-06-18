@@ -14,7 +14,7 @@ Notes from Adam Grant's [Give And Take](https://www.goodreads.com/book/show/1615
 - **Givers.** Givers will help whenever the benefits to others exceed the personal costs. In the workplace, givers are a relatively rare breed. They tilt reciprocity in the other direction, preferring to give more than they get.
 - **Matchers.** Strike a fine balance between giving and taking. Matchers operate on the principle of fairness: when they help others, they protect themselves by seeking reciprocity. If you’re a matcher, you believe in tit for tat, and your relationships are governed by even exchanges of favours.
 
-Cultivating a mindset of [Kingly Giving](Health-&-Self-Care/Meditation-Mindfulness.md#Cultivating%20Generosity%20).
+Cultivating a mindset of [Kingly Giving](Health-Self-Care/Meditation-Mindfulness.md#Cultivating%20Generosity).
 
 ## How Do the People Fare?
 

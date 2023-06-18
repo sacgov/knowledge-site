@@ -303,7 +303,7 @@ She let go of the fear that I would grow old and die alone, that my friends woul
 
 ## Storytelling
 
-This is also related to [Reframing](Habits-&-Behaviour/ACT-Acceptance-Therapy.md#Reframing).
+This is also related to [Reframing](Habits-Behaviour/ACT-Acceptance-Therapy.md#Reframing).
 The story you tell yourself about yourself.
 Creating a narrative from the events of your life brings clarity.
 It helps you understand how you became you.

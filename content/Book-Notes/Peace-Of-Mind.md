@@ -1,8 +1,10 @@
 ---
-title: Peace Of Mind
+title: Peace of Mind
 date created: Friday, June 9th 2023, 3:05:57 pm
-date modified: Saturday, June 10th 2023, 5:16:30 pm
+date modified: Sunday, June 18th 2023, 9:32:23 pm
 ---
+
+# Peace of Mind
 
 Goodreads : [Link](https://www.goodreads.com/book/show/33597739-peace-of-mind)
 

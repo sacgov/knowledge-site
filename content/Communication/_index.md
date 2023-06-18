@@ -7,9 +7,9 @@ bookCollapseSection: true
 
 # Communication
 
-- [Interfaces](Communication/Interfaces)
-- [On-Writing](Communication/On-Writing)
-- [Small-Talk](Communication/Small-Talk)
-- [Writing-An-Introductory-Speech](Communication/Writing-An-Introductory-Speech)
-- [communicating-well](Communication/communicating-well)
+- [interfaces](/communication/interfaces)
+- [on-writing](/communication/on-writing)
+- [small-talk](/communication/small-talk)
+- [writing-an-introductory-speech](/communication/writing-an-introductory-speech)
+- [communicating-well](/communication/communicating-well)
 

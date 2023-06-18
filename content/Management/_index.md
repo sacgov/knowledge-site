@@ -7,9 +7,9 @@ bookCollapseSection: true
 
 # Management
 
-- [Company-Culture](Management/Company-Culture)
-- [Fast vs Slow](Management/Fast vs Slow)
-- [Hiring](Management/Hiring)
-- [How-to-delegate](Management/How-to-delegate)
-- [Promises-Of-a-Manager](Management/Promises-Of-a-Manager)
+- [company-culture](/management/company-culture)
+- [fast vs slow](/management/fast vs slow)
+- [hiring](/management/hiring)
+- [how-to-delegate](/management/how-to-delegate)
+- [promises-of-a-manager](/management/promises-of-a-manager)
 

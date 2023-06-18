@@ -7,8 +7,8 @@ bookCollapseSection: true
 
 # People
 
-- [All-People-are-the-Same](People/All-People-are-the-Same)
-- [Evaluating-Character](People/Evaluating-Character)
-- [Interacting-with-Kids](People/Interacting-with-Kids)
-- [Staying-Away-from-Loved-Ones](People/Staying-Away-from-Loved-Ones)
+- [all-people-are-the-same](/people/all-people-are-the-same)
+- [evaluating-character](/people/evaluating-character)
+- [interacting-with-kids](/people/interacting-with-kids)
+- [staying-away-from-loved-ones](/people/staying-away-from-loved-ones)
 

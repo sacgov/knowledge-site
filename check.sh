@@ -8,6 +8,7 @@ fi
 
 rm -rf content
 mv ~/notes-export content
+find content -type f -name "* *"
 git add .
 git status
 

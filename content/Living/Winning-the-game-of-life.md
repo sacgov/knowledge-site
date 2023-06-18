@@ -2,7 +2,6 @@
 title: The Game of Life
 date created: Monday, June 12th 2023, 10:26:21 pm
 date modified: Thursday, June 15th 2023, 2:38:32 am
-tags: [1, 2, 3]
 ---
 
 # The Game of Life

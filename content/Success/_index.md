@@ -7,12 +7,12 @@ bookCollapseSection: true
 
 # Success
 
-- [Deliberate-Practice](Success/Deliberate-Practice)
-- [How?](Success/How?)
-- [Kinder-Version-of-Success](Success/Kinder-Version-of-Success)
-- [Luck](Success/Luck)
-- [Managing-Oneself](Success/Managing-Oneself)
-- [Managing-Stress](Success/Managing-Stress)
-- [Stochastic-Learning](Success/Stochastic-Learning)
-- [Willpower-Instinct](Success/Willpower-Instinct)
+- [deliberate-practice](/success/deliberate-practice)
+- [how?](/success/how?)
+- [kinder-version-of-success](/success/kinder-version-of-success)
+- [luck](/success/luck)
+- [managing-oneself](/success/managing-oneself)
+- [managing-stress](/success/managing-stress)
+- [stochastic-learning](/success/stochastic-learning)
+- [willpower-instinct](/success/willpower-instinct)
 

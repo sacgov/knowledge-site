@@ -1,13 +1,12 @@
 ---
-tags: [1, 2]
 title: Designing Life
 date created: Tuesday, June 13th 2023, 1:44:12 am
-date modified: Tuesday, June 13th 2023, 11:40:03 pm
+date modified: Sunday, June 18th 2023, 8:37:15 pm
 ---
 
 # Designing Life
 
-Summary from [TED Talk](https://www.youtube.com/watch?v=SemHh0n19LA)
+Summary from [TED Talk](./$2./$2https://www.youtube.com/watch?v=SemHh0n19LA)
 
 ## Wrong Questions
 
@@ -27,13 +26,13 @@ Summary from [TED Talk](https://www.youtube.com/watch?v=SemHh0n19LA)
 
 ### Problems in Designing a Solution
 
-Problem #1
+Problem 1
 
 Believing that there is only one solution. I should have already known it. Also maybe i am late. All of these are untrue.
 
-Problem #2
+Problem 2
 
-Choosing a circumstance as a problem. Like my height or money of a musician. There is no solving it. Harbor only [Useful Thoughts](Habits-&-Behaviour/ACT-Acceptance-Therapy.md#Is%20My%20Thought%20Helpful?%20)
+Choosing a circumstance as a problem. Like my height or money of a musician. There is no solving it. Harbor only [Is My Thought Helpful?](Habits-Behaviour/ACT-Acceptance-Therapy.md#Is%20My%20Thought%20Helpful?)
 
 If i was a musician who is going broke, My reasoning should be the following.
 Since i am not going to make money using music what can i do to sustain or what kind of living can i adopt.

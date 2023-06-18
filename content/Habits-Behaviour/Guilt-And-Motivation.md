@@ -219,7 +219,7 @@ Then it is useful to be able to choose "bad," without suffering over it.
 Next time you find yourself feeling flustered because none of your options pass an absolute acceptability threshold, pause and reframe, and look at the relative acceptability of your actions instead.
 
 Take it, without suffering, no matter how bad it is. That is all there is to do.
-[Read More on Suffering](Habits-&-Behaviour/ACT-Acceptance-Therapy.md#Pain%20and%20Suffering)
+[Read More on Suffering](Habits-Behaviour/ACT-Acceptance-Therapy.md#Pain%20and%20Suffering)
 
 **Treat it not as bad news about how reality went, but rather treat it as you would treat information about where in the multiverse you ended up.**
 

@@ -7,10 +7,11 @@ bookCollapseSection: true
 
 # Poems
 
-- [If-Rudyard-kipling](Poems/If-Rudyard-kipling)
-- [Invictus-William-Ernest-Henley](Poems/Invictus-William-Ernest-Henley)
-- [Mirror-Sylvia-Plath](Poems/Mirror-Sylvia-Plath)
-- [On-children-Kahlil-Gibran](Poems/On-children-Kahlil-Gibran)
-- [Road-Not-Taken-Robert-Frost](Poems/Road-Not-Taken-Robert-Frost)
-- [We-are-the-champions](Poems/We-are-the-champions)
+- [bada-hua-toh-kya-hua](/poems/bada-hua-toh-kya-hua)
+- [if-rudyard-kipling](/poems/if-rudyard-kipling)
+- [invictus-william-ernest-henley](/poems/invictus-william-ernest-henley)
+- [mirror-sylvia-plath](/poems/mirror-sylvia-plath)
+- [on-children-kahlil-gibran](/poems/on-children-kahlil-gibran)
+- [road-not-taken-robert-frost](/poems/road-not-taken-robert-frost)
+- [we-are-the-champions](/poems/we-are-the-champions)
 

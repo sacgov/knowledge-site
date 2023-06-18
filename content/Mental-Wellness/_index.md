@@ -7,9 +7,9 @@ bookCollapseSection: true
 
 # Mental-wellness
 
-- [Acceptance](Mental-Wellness/Acceptance)
-- [Anxiety](Mental-Wellness/Anxiety)
-- [Chatter](Mental-Wellness/Chatter)
-- [Forgiving-my-younger-self](Mental-Wellness/Forgiving-my-younger-self)
-- [Worry](Mental-Wellness/Worry)
+- [acceptance](/mental-wellness/acceptance)
+- [anxiety](/mental-wellness/anxiety)
+- [chatter](/mental-wellness/chatter)
+- [forgiving-my-younger-self](/mental-wellness/forgiving-my-younger-self)
+- [worry](/mental-wellness/worry)
 

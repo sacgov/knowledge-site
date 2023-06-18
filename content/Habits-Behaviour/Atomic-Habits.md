@@ -37,7 +37,7 @@ In the sports gene, David Epstein finds some research that suggests that what we
 ## Drive to Succeed
 
 All the successful people have a drive like no other. There is no point in competing with or even comparing with them. We do not know if it is a better life. We should go after what we want. That means comparing ourselves with where were yesterday. We should get financially independent and not get a dopamine rush of comparison with bill gates. Our minds would soon strike that down as impossible and we would stop persisting on our habits. True mavericks like Bill Fates do believe that in fact they can be richest or the fastest like Aryton Senna.
-[Desperately Trying](Habits-&-Behaviour/Guilt-And-Motivation.md#Desperation%20towards%20a%20Goal%20).
+[Desperately Trying](Habits-Behaviour/Guilt-And-Motivation.md#Desperation%20towards%20a%20Goal).
 
 ## Sustaining Good Habits
 

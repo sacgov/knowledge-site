@@ -7,9 +7,9 @@ bookCollapseSection: true
 
 # Book Notes
 
-- [Art-of-a-good-life](Book-Notes/Art-of-a-good-life)
-- [Dokkodo-The-Path-of-Aloneness](Book-Notes/Dokkodo-The-Path-of-Aloneness)
-- [Peace-Of-Mind](Book-Notes/Peace-Of-Mind)
-- [Psychology-of-money](Book-Notes/Psychology-of-money)
-- [Who-moved-my-cheese?](Book-Notes/Who-moved-my-cheese?)
+- [art-of-a-good-life](/book-notes/art-of-a-good-life)
+- [dokkodo-the-path-of-aloneness](/book-notes/dokkodo-the-path-of-aloneness)
+- [peace-of-mind](/book-notes/peace-of-mind)
+- [psychology-of-money](/book-notes/psychology-of-money)
+- [who-moved-my-cheese?](/book-notes/who-moved-my-cheese?)
 
