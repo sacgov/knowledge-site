@@ -1,7 +1,7 @@
 ---
 title: Memories Vs Experiences
-date created: Friday, June 16th 2023, 3:50:28 am
-date modified: Friday, June 16th 2023, 3:52:54 am
+createdDate: Friday, June 16th 2023, 3:50:28 am
+modifiedDate: Sunday, June 18th 2023, 11:10:32 pm
 ---
 
 # Memories Vs Experiences

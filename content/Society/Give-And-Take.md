@@ -1,7 +1,7 @@
 ---
 title: Give and Take
-date created: Friday, June 16th 2023, 2:12:35 am
-date modified: Friday, June 16th 2023, 2:35:12 am
+createdDate: Friday, June 16th 2023, 2:12:35 am
+modifiedDate: Sunday, June 18th 2023, 11:04:17 pm
 ---
 
 # Give and Take

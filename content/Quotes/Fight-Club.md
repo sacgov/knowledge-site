@@ -1,7 +1,7 @@
 ---
 title: Fight Club
-date created: Saturday, June 10th 2023, 6:40:44 pm
-date modified: Tuesday, June 13th 2023, 11:41:30 pm
+createdDate: Saturday, June 10th 2023, 6:40:44 pm
+modifiedDate: Sunday, June 18th 2023, 11:10:32 pm
 ---
 
 # Fight Club

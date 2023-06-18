@@ -1,7 +1,7 @@
 ---
 title: Designing Life
-date created: Tuesday, June 13th 2023, 1:44:12 am
-date modified: Sunday, June 18th 2023, 8:37:15 pm
+createdDate: Tuesday, June 13th 2023, 1:44:12 am
+modifiedDate: Sunday, June 18th 2023, 11:10:32 pm
 ---
 
 # Designing Life

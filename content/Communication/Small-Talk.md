@@ -1,7 +1,7 @@
 ---
 title: Small Talk
-date created: Friday, June 16th 2023, 5:22:22 pm
-date modified: Friday, June 16th 2023, 5:29:04 pm
+createdDate: Friday, June 16th 2023, 5:22:22 pm
+modifiedDate: Sunday, June 18th 2023, 11:10:33 pm
 ---
 
 # Small Talk

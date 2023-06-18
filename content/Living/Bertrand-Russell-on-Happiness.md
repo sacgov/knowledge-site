@@ -1,7 +1,7 @@
 ---
 title: Bertrand Russell on Happiness on Happiness
-date created: Tuesday, June 13th 2023, 2:59:22 am
-date modified: Tuesday, June 13th 2023, 11:40:00 pm
+createdDate: Tuesday, June 13th 2023, 2:59:22 am
+modifiedDate: Sunday, June 18th 2023, 11:10:32 pm
 ---
 
 # Bertrand Russell on Happiness on Happiness

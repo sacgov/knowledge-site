@@ -1,7 +1,7 @@
 ---
 title: Fading out - Sylvia Plath
-date created: Saturday, June 10th 2023, 4:53:50 pm
-date modified: Tuesday, June 13th 2023, 2:02:27 pm
+createdDate: Saturday, June 10th 2023, 4:53:50 pm
+modifiedDate: Sunday, June 18th 2023, 11:10:33 pm
 ---
 
 # Fading out - Sylvia Plath

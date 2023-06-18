@@ -1,7 +1,7 @@
 ---
 title: Forgiving My Younger Self
-date created: Tuesday, June 13th 2023, 1:50:31 pm
-date modified: Tuesday, June 13th 2023, 11:41:06 pm
+createdDate: Tuesday, June 13th 2023, 1:50:31 pm
+modifiedDate: Sunday, June 18th 2023, 11:10:32 pm
 ---
 
 # Forgiving My Younger Self

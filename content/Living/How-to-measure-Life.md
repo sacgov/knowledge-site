@@ -1,8 +1,10 @@
 ---
-title: How-to-measure-Life
-date created: Wednesday, June 7th 2023, 11:08:47 am
-date modified: Tuesday, June 13th 2023, 11:40:14 pm
+title: How to Measure Life
+createdDate: Wednesday, June 7th 2023, 11:08:47 am
+modifiedDate: Sunday, June 18th 2023, 11:15:07 pm
 ---
+
+# How to Measure Life
 
 By Clay Christenson in [Link](https://hbr.org/2010/07/how-will-you-measure-your-life)
 

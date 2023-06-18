@@ -1,7 +1,7 @@
 ---
 title: Personal Renewal
-date created: Tuesday, June 13th 2023, 8:15:28 pm
-date modified: Tuesday, June 13th 2023, 11:19:32 pm
+createdDate: Tuesday, June 13th 2023, 8:15:28 pm
+modifiedDate: Sunday, June 18th 2023, 11:10:32 pm
 ---
 
 # Personal Renewal

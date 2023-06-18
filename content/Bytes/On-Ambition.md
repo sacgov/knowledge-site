@@ -1,7 +1,7 @@
 ---
 title: On Ambition
-date created: Monday, June 12th 2023, 7:19:46 pm
-date modified: Monday, June 12th 2023, 7:20:17 pm
+createdDate: Monday, June 12th 2023, 7:19:46 pm
+modifiedDate: Sunday, June 18th 2023, 11:10:33 pm
 ---
 
 # On Ambition

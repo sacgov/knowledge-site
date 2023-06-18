@@ -1,7 +1,7 @@
 ---
 title: Thinking Clearly
-date created: Tuesday, June 13th 2023, 2:45:58 am
-date modified: Thursday, June 15th 2023, 6:21:30 pm
+createdDate: Tuesday, June 13th 2023, 2:45:58 am
+modifiedDate: Sunday, June 18th 2023, 11:10:32 pm
 ---
 
 # Thinking Clearly

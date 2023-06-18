@@ -1,7 +1,7 @@
 ---
 title: Writing an Introductory Speech
-date created: Tuesday, June 13th 2023, 8:01:51 pm
-date modified: Tuesday, June 13th 2023, 11:38:27 pm
+createdDate: Tuesday, June 13th 2023, 8:01:51 pm
+modifiedDate: Sunday, June 18th 2023, 11:10:33 pm
 ---
 
 # Writing an Introductory Speech

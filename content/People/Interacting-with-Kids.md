@@ -1,7 +1,7 @@
 ---
 title: Interacting with Kids
-date created: Friday, June 9th 2023, 3:27:59 pm
-date modified: Saturday, June 17th 2023, 11:44:12 pm
+createdDate: Friday, June 9th 2023, 3:27:59 pm
+modifiedDate: Sunday, June 18th 2023, 11:10:32 pm
 ---
 
 # Interacting with Kids

@@ -1,7 +1,7 @@
 ---
 title: Living a Good Life
-date created: Saturday, June 10th 2023, 1:57:18 pm
-date modified: Friday, June 16th 2023, 11:33:52 pm
+createdDate: Saturday, June 10th 2023, 1:57:18 pm
+modifiedDate: Sunday, June 18th 2023, 11:10:32 pm
 ---
 
 # Living a Good Life

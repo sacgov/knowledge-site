@@ -1,7 +1,7 @@
 ---
 title: If Poem - Kipling
-date created: Saturday, June 10th 2023, 3:37:35 pm
-date modified: Saturday, June 10th 2023, 3:38:39 pm
+createdDate: Saturday, June 10th 2023, 3:37:35 pm
+modifiedDate: Sunday, June 18th 2023, 11:10:32 pm
 ---
 
 # If Poem - Kipling

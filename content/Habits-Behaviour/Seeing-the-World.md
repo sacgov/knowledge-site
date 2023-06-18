@@ -1,7 +1,7 @@
 ---
 title: Seeing the World
-date created: Friday, June 16th 2023, 4:29:38 pm
-date modified: Friday, June 16th 2023, 4:42:19 pm
+createdDate: Friday, June 16th 2023, 4:29:38 pm
+modifiedDate: Sunday, June 18th 2023, 11:10:32 pm
 ---
 
 # Seeing the World
@@ -98,6 +98,7 @@ Is the convict reaching for purse or a gun There are many cases in which we don'
 It's really hard to take that step back and think about what are the situational stresses and influences that could be leading to other people's actions
 
 ## How Others See Us?
+
 We try to guess what others think of us. Are my flaws on display or did they think we are cool. Research suggests this is not the case. Our perceptions of social interactions are biased.
 
 There is a liking gap. Acquainted for the first time. We underestimate how much the other person liked the conversation. People underestimated how much the room-mate likes us.

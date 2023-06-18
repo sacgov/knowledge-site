@@ -1,7 +1,7 @@
 ---
 title: Workplace Habits
-date created: Monday, June 12th 2023, 8:01:59 pm
-date modified: Tuesday, June 13th 2023, 11:38:14 pm
+createdDate: Monday, June 12th 2023, 8:01:59 pm
+modifiedDate: Sunday, June 18th 2023, 11:10:32 pm
 ---
 
 # Workplace Habits

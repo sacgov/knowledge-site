@@ -1,10 +1,10 @@
 ---
-title: James-Clear
-date created: Tuesday, June 13th 2023, 3:30:13 am
-date modified: Tuesday, June 13th 2023, 11:41:38 pm
+title: James Clear
+createdDate: Tuesday, June 13th 2023, 3:30:13 am
+modifiedDate: Sunday, June 18th 2023, 11:13:07 pm
 ---
 
-James Clear
+# James Clear
 
 1. Take action
 2. Skill is persistent revision

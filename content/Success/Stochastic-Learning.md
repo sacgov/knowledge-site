@@ -1,7 +1,7 @@
 ---
 title: Stochastic Learning
-date created: Tuesday, June 13th 2023, 3:31:57 am
-date modified: Tuesday, June 13th 2023, 11:42:45 pm
+createdDate: Tuesday, June 13th 2023, 3:31:57 am
+modifiedDate: Sunday, June 18th 2023, 11:10:31 pm
 ---
 
 # Stochastic Learning

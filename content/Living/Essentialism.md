@@ -1,7 +1,7 @@
 ---
 title: Essentialism
-date created: Monday, June 12th 2023, 7:45:14 pm
-date modified: Tuesday, June 13th 2023, 11:40:06 pm
+createdDate: Monday, June 12th 2023, 7:45:14 pm
+modifiedDate: Sunday, June 18th 2023, 11:10:32 pm
 ---
 
 # Essentialism

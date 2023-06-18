@@ -1,7 +1,7 @@
 ---
 title: Image Repository
-date created: Tuesday, June 13th 2023, 3:21:35 am
-date modified: Tuesday, June 13th 2023, 3:22:23 am
+createdDate: Tuesday, June 13th 2023, 3:21:35 am
+modifiedDate: Sunday, June 18th 2023, 11:10:33 pm
 ---
 
 # Image Repository
@@ -10,6 +10,6 @@ date modified: Tuesday, June 13th 2023, 3:22:23 am
 
 ![Email-Management](assets/Email-Management.png)
 
-## Why people quit their jobs?
-![why-people-quit-jobs](assets/why-people-quit-jobs.jpeg)
+## Why People Quit Their Jobs?
 
+![why-people-quit-jobs](assets/why-people-quit-jobs.jpeg)

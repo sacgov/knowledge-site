@@ -1,7 +1,7 @@
 ---
 title: Chatter
-date created: Saturday, June 10th 2023, 5:04:26 pm
-date modified: Saturday, June 10th 2023, 6:39:31 pm
+createdDate: Saturday, June 10th 2023, 5:04:26 pm
+modifiedDate: Sunday, June 18th 2023, 11:10:32 pm
 ---
 
 # Chatter

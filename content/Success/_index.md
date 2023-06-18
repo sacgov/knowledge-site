@@ -1,18 +1,18 @@
 ---
 title: Success
-date created: Sunday, June 18th 2023, 4:20:34 pm
-date modified: Sunday, June 18th 2023, 4:25:20 pm
+createdDate: Sunday, June 18th 2023, 4:20:34 pm
+modifiedDate: Sunday, June 18th 2023, 11:10:31 pm
 bookCollapseSection: true
 ---
 
 # Success
 
-- [deliberate-practice](/success/deliberate-practice)
-- [how?](/success/how?)
-- [kinder-version-of-success](/success/kinder-version-of-success)
-- [luck](/success/luck)
-- [managing-oneself](/success/managing-oneself)
-- [managing-stress](/success/managing-stress)
-- [stochastic-learning](/success/stochastic-learning)
-- [willpower-instinct](/success/willpower-instinct)
+- [Deliberate-Practice](/success/deliberate-practice)
+- [How](/success/how)
+- [Kinder-Version-of-Success](/success/kinder-version-of-success)
+- [Luck](/success/luck)
+- [Managing-Oneself](/success/managing-oneself)
+- [Managing-Stress](/success/managing-stress)
+- [Stochastic-Learning](/success/stochastic-learning)
+- [Willpower-Instinct](/success/willpower-instinct)
 

@@ -1,7 +1,7 @@
 ---
 title: Atomic Habits
-date created: Tuesday, June 13th 2023, 7:45:54 pm
-date modified: Tuesday, June 13th 2023, 11:38:17 pm
+createdDate: Tuesday, June 13th 2023, 7:45:54 pm
+modifiedDate: Sunday, June 18th 2023, 11:10:33 pm
 ---
 
 # Atomic Habits

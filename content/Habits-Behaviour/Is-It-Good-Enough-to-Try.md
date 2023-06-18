@@ -1,7 +1,7 @@
 ---
 title: Is it Good Enough to Try?
-date created: Friday, June 16th 2023, 1:35:28 am
-date modified: Friday, June 16th 2023, 1:38:25 am
+createdDate: Friday, June 16th 2023, 1:35:28 am
+modifiedDate: Sunday, June 18th 2023, 11:10:32 pm
 ---
 
 # Is it Good Enough to Try?

@@ -1,7 +1,7 @@
 ---
 title: Pareto Principle
-date created: Monday, June 12th 2023, 7:48:17 pm
-date modified: Monday, June 12th 2023, 10:58:25 pm
+createdDate: Monday, June 12th 2023, 7:48:17 pm
+modifiedDate: Sunday, June 18th 2023, 11:10:33 pm
 ---
 
 # Pareto Principle

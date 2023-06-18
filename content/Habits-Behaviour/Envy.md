@@ -1,8 +1,10 @@
 ---
 title: Envy
-date created: Friday, June 16th 2023, 4:45:33 pm
-date modified: Friday, June 16th 2023, 4:45:40 pm
+createdDate: Friday, June 16th 2023, 4:45:33 pm
+modifiedDate: Sunday, June 18th 2023, 11:15:44 pm
 ---
+
+# Envy
 
 Envy is a tool for social comparison. Inequality is everywhere - more intelligent, more attractive socially or sexually. Such Differences matter a lot. They are not lost on the members of the tribe.
 

@@ -1,7 +1,7 @@
 ---
 title: Peace of Mind
-date created: Friday, June 9th 2023, 3:05:57 pm
-date modified: Sunday, June 18th 2023, 9:32:23 pm
+createdDate: Friday, June 9th 2023, 3:05:57 pm
+modifiedDate: Sunday, June 18th 2023, 11:10:33 pm
 ---
 
 # Peace of Mind

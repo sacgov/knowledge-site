@@ -1,7 +1,7 @@
 ---
 title: Stoicism
-date created: Friday, June 9th 2023, 2:45:56 pm
-date modified: Tuesday, June 13th 2023, 11:40:25 pm
+createdDate: Friday, June 9th 2023, 2:45:56 pm
+modifiedDate: Sunday, June 18th 2023, 11:10:32 pm
 ---
 
 # Stoicism

@@ -1,7 +1,7 @@
 ---
-title: Taleb
-date created: Tuesday, June 13th 2023, 11:24:43 am
-date modified: Tuesday, June 13th 2023, 11:25:20 am
+title: Nn Taleb
+createdDate: Tuesday, June 13th 2023, 11:24:43 am
+modifiedDate: Sunday, June 18th 2023, 11:10:31 pm
 ---
 
 # Nn Taleb

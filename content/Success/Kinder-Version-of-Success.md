@@ -1,10 +1,10 @@
 ---
 title: Kinder-Version-of-Success
-date created: Saturday, June 10th 2023, 2:14:55 pm
-date modified: Saturday, June 10th 2023, 2:20:28 pm
+createdDate: Saturday, June 10th 2023, 2:14:55 pm
+modifiedDate: Sunday, June 18th 2023, 11:10:31 pm
 ---
 
-# Kinder-Version-of-Success
+# Kinder-version-of-success
 
 Excerpt from the [Talk](Success/Kinder-Version-of-Success.md)
 
@@ -14,7 +14,8 @@ The gap between my hopes for myself and the reality of my life starts to diverge
 
 It's perhaps easier now than ever before to make a good living. It's perhaps harder than ever before to stay calm, to be free of career anxiety.
 
-## What causes the gap
+## What Causes the Gap
+
 ### Societal Expectation
 
 Most people make a strict correlation between how much time, love, society would accord us, would be strictly defined by our position in the social hierarchy.
@@ -29,7 +30,7 @@ There is one really big problem with this, and that problem is envy. If there's 
 
 ## Problems
 
-### Envy 
+### Envy
 
 Envy is a result of expectation.
 The problem of modern society is it turns the whole world into a village.
@@ -37,7 +38,7 @@ Everybody's wearing jeans, everybody's the same. And yet, they're not.
 
 There's a spirit of equality alongside deep inequality, which can make very stressful situation. It's as unlikely to be as rich and famous as Bill Gates, as it was unlikely in 17 th century to reach the ranks of the French aristocracy. But now it doesn't feel that way. It's made to feel, by media that you, too, could start a major thing.
 
-### The kind of books today.
+### The Kind of Books Today
 
 The first kind tells you, "You can do it! You can make it! Anything's possible!" Second deals with what we politely call "low self-esteem," or impolitely call, "feeling very bad about yourself."
 
@@ -53,7 +54,7 @@ This idea that everybody deserves to get where they get to, I think it's a crazy
 
 We think very highly of ourselves, and so we should; we've put people on the Moon, done all sorts of extraordinary things. And so we tend to worship ourselves. Our heroes are human heroes. That's a very new situation. Most other societies have had, right at their center, the worship of something transcendent: a god, a spirit, a natural force, the universe, whatever it is something else that is being worshiped.
 
-## Our notions of success
+## Our Notions of Success
 
 If I said that there's somebody behind the screen who's very successful, certain ideas would immediately come to mind. You'd think that person might have made a lot of money, achieved renown in some field. We hear a lot of talk about work-life balance. Nonsense. You can't have it all. You can't.
 
@@ -61,7 +62,7 @@ Any vision of success has to admit what it's losing out on, where the element of
 
 When we're told that banking is a very respectable profession, a lot want to go into banking. When banking is no longer so respectable, we lose interest in banking. We are highly open to suggestion.
 
-## Being clear in our notions of success
+## Being Clear in Our Notions of Success
 
 Not give up on our ideas of success, but make sure they are our own. Focus in on our ideas, and make sure that we own them; that we are truly the authors of our own ambitions. Because it's bad enough not getting what you want, but it's even worse to have an idea of what it is you want, and find out, at the end of the journey, that it isn't, in fact, what you wanted all along.
 

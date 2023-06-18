@@ -1,8 +1,10 @@
 ---
-title: Who moved my cheese?
-date created: Saturday, June 10th 2023, 1:44:38 pm
-date modified: Monday, June 12th 2023, 9:56:35 pm
+title: Who moved my cheese
+createdDate: Saturday, June 10th 2023, 1:44:38 pm
+modifiedDate: Sunday, June 18th 2023, 11:18:09 pm
 ---
+
+# Who Moved My Cheese
 
 It is curious little story of rats and cheese.
 

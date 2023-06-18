@@ -1,7 +1,7 @@
 ---
 title: Art of a Good Life
-date created: Tuesday, June 13th 2023, 8:10:28 pm
-date modified: Tuesday, June 13th 2023, 8:14:38 pm
+createdDate: Tuesday, June 13th 2023, 8:10:28 pm
+modifiedDate: Sunday, June 18th 2023, 11:10:33 pm
 ---
 
 # Art of a Good Life

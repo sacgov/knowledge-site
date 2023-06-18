@@ -1,7 +1,7 @@
 ---
 title: Taking Action
-date created: Saturday, June 10th 2023, 4:13:12 pm
-date modified: Friday, June 16th 2023, 3:49:32 pm
+createdDate: Saturday, June 10th 2023, 4:13:12 pm
+modifiedDate: Sunday, June 18th 2023, 11:10:33 pm
 ---
 
 # Taking Action
@@ -75,5 +75,3 @@ So those three things:
 3. Be in service of your dream through the growth that happens,
 
 Now, not one of us can go back and change what's back there, but every single one of us can decide what's going to be out there.
-
-

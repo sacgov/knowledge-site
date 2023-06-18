@@ -1,10 +1,10 @@
 ---
-title: How?
-date created: Saturday, June 10th 2023, 4:15:01 pm
-date modified: Tuesday, June 13th 2023, 2:17:53 pm
+title: How to Succeed
+createdDate: Saturday, June 10th 2023, 4:15:01 pm
+modifiedDate: Sunday, June 18th 2023, 11:10:31 pm
 ---
 
-# How?
+# How to Succeed
 
 1. Fostering a Growth Mindset - Believing that is is success we aim for is possible by us and [Taking Action](Bytes/Taking-Action.md)
 2. Compounding - Focused investment of only one hour a day can double your lifetime output.

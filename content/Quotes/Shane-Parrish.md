@@ -1,7 +1,7 @@
 ---
 title: Shane Parrish
-date created: Tuesday, June 13th 2023, 11:58:00 am
-date modified: Tuesday, June 13th 2023, 11:42:03 pm
+createdDate: Tuesday, June 13th 2023, 11:58:00 am
+modifiedDate: Sunday, June 18th 2023, 11:10:31 pm
 ---
 
 # Shane Parrish

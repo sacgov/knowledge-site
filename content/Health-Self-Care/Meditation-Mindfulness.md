@@ -1,7 +1,7 @@
 ---
 title: Meditation & Mindfullness
-date created: Tuesday, June 13th 2023, 11:34:07 pm
-date modified: Wednesday, June 14th 2023, 12:19:20 am
+createdDate: Tuesday, June 13th 2023, 11:34:07 pm
+modifiedDate: Sunday, June 18th 2023, 11:10:32 pm
 ---
 
 # Meditation & Mindfullness

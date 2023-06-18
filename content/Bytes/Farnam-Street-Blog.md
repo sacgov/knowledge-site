@@ -1,12 +1,12 @@
 ---
-title: Farnam-Street-Blog
-date created: Tuesday, June 13th 2023, 12:59:14 pm
-date modified: Tuesday, June 13th 2023, 2:15:17 pm
+title: Farnam Street Blog
+createdDate: Tuesday, June 13th 2023, 12:59:14 pm
+modifiedDate: Sunday, June 18th 2023, 11:17:14 pm
 ---
 
-Few teachings from [FS](https://fs.blog/)
+# Farnam Street Blog
 
-Farnam Street Blog
+Few teachings from [FS](https://fs.blog/)
 
 1. Long term success blockers
 	1. Saying yes to too many things.

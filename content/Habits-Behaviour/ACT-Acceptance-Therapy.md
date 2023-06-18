@@ -1,7 +1,7 @@
 ---
 title: Act - Acceptance and Commitment Therapy
-date created: Sunday, June 11th 2023, 1:35:22 am
-date modified: Tuesday, June 13th 2023, 11:38:18 pm
+createdDate: Sunday, June 11th 2023, 1:35:22 am
+modifiedDate: Sunday, June 18th 2023, 11:10:33 pm
 ---
 
 # Act - Acceptance and Commitment Therapy

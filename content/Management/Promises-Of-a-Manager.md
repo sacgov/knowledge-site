@@ -1,12 +1,12 @@
 ---
 title: Promises of a Manager
-date created: Tuesday, June 13th 2023, 12:31:29 am
-date modified: Tuesday, June 13th 2023, 11:40:53 pm
+createdDate: Tuesday, June 13th 2023, 12:31:29 am
+modifiedDate: Sunday, June 18th 2023, 11:10:32 pm
 ---
 
 # Promises of a Manager
 
-https://twitter.com/MrEchs/status/1516024322409832450
+<https://twitter.com/MrEchs/status/1516024322409832450>
 
 11 Promises from a Manager
 

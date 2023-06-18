@@ -5,6 +5,7 @@ import * as fse from "fs-extra"
 import {getAPI} from "obsidian-dataview";
 import LZString from "lz-string";
 import * as os from 'os';
+import { error } from "console";
 
 function escapeRegExp(string: string) {
 	return string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'); // $& means the whole matched string
@@ -37,6 +38,7 @@ export default class Publisher {
 		for (const file of files) {
 			// const acceptedFile = file.path.contains('Living') && file.path.contains('_index')
 			try {
+				this.validateTitleAndPath(file);
 				const text = await this.generateMarkdown(file);
 				this.writeText(exportDir, file.path, text)
 			} catch (e) {
@@ -212,6 +214,29 @@ export default class Publisher {
 
 	}
 
+	validateTitleAndPath(file:TFile) {
+		const frontMatter = this.metadataCache.getCache(file.path).frontmatter
+		if(!frontMatter.title ) {
+			console.log("Title missing in ", file.name)
+			new Notice(`TitleNotFound - ${file.name}`)
+			throw new Error('TitleNotFoundError')
+		}
+
+		console.log("debug",file.path)
+		let fPath = file.path;
+		
+		// removing .md
+		fPath =  fPath.slice(0, -3)
+
+		// removing known special chars 
+		fPath = fPath.replaceAll('/','')
+		fPath = fPath.replaceAll('-','')
+		if (!fPath.endsWith('_index') && !fPath.match(/^[a-z0-9]+$/i)) {
+			console.log("Unsanitized title", file.path, fPath)
+			throw new Error('TitleUnsanitizedError')
+		}
+	}
+
 	stripAwayCodeFencesAndFrontmatter(text: string): string {
 		let textToBeProcessed = text;
 		textToBeProcessed = textToBeProcessed.replace(this.excaliDrawRegex, '');
@@ -255,17 +280,14 @@ export default class Publisher {
 					const linkedFile = this.metadataCache.getFirstLinkpathDest(fullLinkedFilePath, filePath);
 					if (!linkedFile) {
 						// const replaceValue = `[[${linkedFileName}${headerPath}\\|${prettyName}]]`
-						let replaceValue = `[${prettyName}](/${linkedFileName}${headerPath})`
-						replaceValue = replaceValue.toLowerCase();
-						console.log("gmd",linkMatch, replaceValue)
+						let linkPath = `${linkedFileName}${headerPath}`.toLowerCase();
+						let replaceValue = `[${prettyName}](/${linkPath})`
 						convertedText = convertedText.replace(linkMatch, replaceValue);
 					}
 					if (linkedFile?.extension === "md") {
 						const extensionlessPath = linkedFile.path.substring(0, linkedFile.path.lastIndexOf('.'));
-						
-						let replaceValue = `[${prettyName}](/${extensionlessPath}${headerPath})`
-						replaceValue = replaceValue.toLowerCase();
-						console.log("md",linkMatch, replaceValue)
+						let linkPath = `${extensionlessPath}${headerPath}`.toLowerCase();
+						let replaceValue = `[${prettyName}](/${linkPath})`
 						convertedText = convertedText.replace(linkMatch, replaceValue);
 					}
 				} catch (e) {

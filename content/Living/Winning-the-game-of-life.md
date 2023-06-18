@@ -1,7 +1,8 @@
 ---
 title: The Game of Life
-date created: Monday, June 12th 2023, 10:26:21 pm
-date modified: Thursday, June 15th 2023, 2:38:32 am
+createdDate: Monday, June 12th 2023, 10:26:21 pm
+modifiedDate: Sunday, June 18th 2023, 11:10:32 pm
+tags: [3]
 ---
 
 # The Game of Life
@@ -42,7 +43,7 @@ If your state gets too low in one area, _your body will disobey your own instru
 You need to put time into things that ensure a healthy state – like food and sleep – to keep your willpower high. Then you need to develop your skills with what you have left.
 
 Some Endeavours lead to a lot of opportunities and others lead to dead ends.
-![ https://oliveremberton.com/app/uploads/2014/02/Skills.png ](%20https://oliveremberton.com/app/uploads/2014/02/Skills.png%20)
+![ ](https://oliveremberton.com/app/uploads/2014/02/Skills.png%20)
 ![](https://oliveremberton.com/app/uploads/2014/02/Dead-skills.png)
 Some skills are more valuable than others. Good ones can open up whole paths like a tech tree. Others are dead ends like **juggling**
 
@@ -77,7 +78,7 @@ The real rules are there. They actually make sense. But they’re a bit more com
 ![reward-assumed](assets/reward-02.png)
 ![Reward-ACtual](assets/reward-01.png)
 
-### Rule #1 : Life is a Competition
+### Rule 1: Life is a Competition
 
 That Girlfriend / High-paying job / Nobel Prize that you want? So does someone else Most achievements are only notable relative to others.
 
@@ -85,13 +86,13 @@ People dress up to win partners. They interview to win jobs. If you deny that co
 
 > The best is reserved to those who are willing to truly fight for it.
 
-### **Rule #2 You’re Judged by what You Do, not what You think**
+### **Rule 2: You’re Judged by what You Do, not what You think**
 
 Society judges people on what you can do for others. “I’m a good person”. “I’m ambitious”. “I’m better than this.” These idle impulses may comfort us at night, but they’re not how the world sees us. They’re not even how we see other people.
 
 A cancer researcher is rewarded less than a supermodel. Why? Because those abilities are rarer and impact more people
 
-### Rule #3 . Our Idea of Fairness is Self Interest
+### Rule 3: Our Idea of Fairness is Self Interest
 
 Reality is indifferent. You studied hard, but you failed the exam. You worked hard, but you didn’t get promoted. You love her, but she won’t return your calls.
 [](Improving-Thinking/Thinking-Clearly.md#What%20is%20Reality%20-%20Being%20Hyper%20Realistic?)

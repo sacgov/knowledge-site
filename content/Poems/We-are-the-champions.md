@@ -1,7 +1,7 @@
 ---
 title: We Are the Champions
-date created: Tuesday, June 13th 2023, 3:04:30 am
-date modified: Tuesday, June 13th 2023, 3:06:20 am
+createdDate: Tuesday, June 13th 2023, 3:04:30 am
+modifiedDate: Sunday, June 18th 2023, 11:10:32 pm
 ---
 
 # We Are the Champions

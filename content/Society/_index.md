@@ -1,15 +1,15 @@
 ---
 title: Society
-date created: Sunday, June 18th 2023, 4:20:54 pm
-date modified: Sunday, June 18th 2023, 4:21:04 pm
+createdDate: Sunday, June 18th 2023, 4:20:54 pm
+modifiedDate: Sunday, June 18th 2023, 11:10:31 pm
 bookCollapseSection: true
 ---
 
 # Society
 
-- [negotiation](/society/negotiation)
-- [privilege-questionnaire](/society/privilege-questionnaire)
-- [role-of-status](/society/role-of-status)
-- [the-cost-of-trust](/society/the-cost-of-trust)
-- [give-&-take](/society/give-&-take)
+- [Give-And-Take](/society/give-and-take)
+- [Negotiation](/society/negotiation)
+- [Privilege-Questionnaire](/society/privilege-questionnaire)
+- [Role-of-Status](/society/role-of-status)
+- [The-cost-of-trust](/society/the-cost-of-trust)
 

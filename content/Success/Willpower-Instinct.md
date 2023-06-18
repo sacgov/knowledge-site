@@ -1,7 +1,7 @@
 ---
 title: Willpower Instinct
-date created: Saturday, June 10th 2023, 3:54:14 pm
-date modified: Tuesday, June 13th 2023, 11:42:52 pm
+createdDate: Saturday, June 10th 2023, 3:54:14 pm
+modifiedDate: Sunday, June 18th 2023, 11:10:31 pm
 ---
 
 # Willpower Instinct

@@ -1,7 +1,7 @@
 ---
 title: Managing Stress
-date created: Tuesday, June 13th 2023, 12:07:05 am
-date modified: Tuesday, June 13th 2023, 11:42:40 pm
+createdDate: Tuesday, June 13th 2023, 12:07:05 am
+modifiedDate: Sunday, June 18th 2023, 11:10:31 pm
 ---
 
 # Managing Stress

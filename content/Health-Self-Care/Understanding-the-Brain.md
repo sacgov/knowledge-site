@@ -1,7 +1,7 @@
 ---
 title: Understanding the Brain
-date created: Tuesday, June 13th 2023, 2:32:10 am
-date modified: Tuesday, June 13th 2023, 11:39:50 pm
+createdDate: Tuesday, June 13th 2023, 2:32:10 am
+modifiedDate: Sunday, June 18th 2023, 11:10:32 pm
 ---
 
 # Understanding the Brain

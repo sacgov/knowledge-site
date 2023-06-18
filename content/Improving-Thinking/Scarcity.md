@@ -1,7 +1,7 @@
 ---
 title: Scarcity
-date created: Saturday, June 10th 2023, 5:12:06 pm
-date modified: Saturday, June 10th 2023, 5:12:10 pm
+createdDate: Saturday, June 10th 2023, 5:12:06 pm
+modifiedDate: Sunday, June 18th 2023, 11:10:32 pm
 ---
 
 # Scarcity

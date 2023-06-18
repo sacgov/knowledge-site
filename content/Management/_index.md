@@ -1,15 +1,15 @@
 ---
 title: Management
-date created: Sunday, June 18th 2023, 4:22:05 pm
-date modified: Sunday, June 18th 2023, 4:24:21 pm
+createdDate: Sunday, June 18th 2023, 4:22:05 pm
+modifiedDate: Sunday, June 18th 2023, 11:10:32 pm
 bookCollapseSection: true
 ---
 
 # Management
 
-- [company-culture](/management/company-culture)
-- [fast vs slow](/management/fast vs slow)
-- [hiring](/management/hiring)
-- [how-to-delegate](/management/how-to-delegate)
-- [promises-of-a-manager](/management/promises-of-a-manager)
+- [Company-Culture](/management/company-culture)
+- [Fast-vs-Slow](/management/fast-vs-slow)
+- [Hiring](/management/hiring)
+- [How-to-delegate](/management/how-to-delegate)
+- [Promises-Of-a-Manager](/management/promises-of-a-manager)
 

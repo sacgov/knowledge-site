@@ -1,7 +1,7 @@
 ---
 title: Making Sense of Reality and Emotion
-date created: Thursday, June 15th 2023, 6:17:40 pm
-date modified: Thursday, June 15th 2023, 6:28:06 pm
+createdDate: Thursday, June 15th 2023, 6:17:40 pm
+modifiedDate: Sunday, June 18th 2023, 11:10:32 pm
 ---
 
 # Making Sense of Reality and Emotion
@@ -17,5 +17,3 @@ Everybody sees their own reality. Reality just means what seems real to the pers
 **We do not see things as they are, we see things as we are.**
 
 ## Interpreting Our Reality when We Fail
-
-

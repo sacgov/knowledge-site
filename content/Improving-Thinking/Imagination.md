@@ -1,10 +1,10 @@
 ---
 title: Imagination
-date created: Saturday, June 10th 2023, 6:33:27 pm
-date modified: Saturday, June 10th 2023, 6:34:20 pm
+createdDate: Saturday, June 10th 2023, 6:33:27 pm
+modifiedDate: Sunday, June 18th 2023, 11:15:25 pm
 ---
 
-Imagination
+# Imagination
 
 **Imagination isn't what we think, it's how we think.** Imagination is situated between our perceptions and our understanding.
 

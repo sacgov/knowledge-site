@@ -1,7 +1,7 @@
 ---
 title: Naval Ravikant
-date created: Tuesday, June 13th 2023, 11:59:46 am
-date modified: Tuesday, June 13th 2023, 11:41:47 pm
+createdDate: Tuesday, June 13th 2023, 11:59:46 am
+modifiedDate: Sunday, June 18th 2023, 11:10:31 pm
 ---
 
 # Naval Ravikant

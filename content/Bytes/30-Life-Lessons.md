@@ -1,7 +1,7 @@
 ---
 title: 30 Life Lessons
-date created: Saturday, June 10th 2023, 4:12:05 pm
-date modified: Tuesday, June 13th 2023, 11:39:00 pm
+createdDate: Saturday, June 10th 2023, 4:12:05 pm
+modifiedDate: Sunday, June 18th 2023, 11:10:33 pm
 ---
 
 # 30 Life Lessons

@@ -1,7 +1,7 @@
 ---
 title: Cost of Trust
-date created: Saturday, June 10th 2023, 3:49:38 pm
-date modified: Tuesday, June 13th 2023, 11:42:22 pm
+createdDate: Saturday, June 10th 2023, 3:49:38 pm
+modifiedDate: Sunday, June 18th 2023, 11:10:31 pm
 ---
 
 # Cost of Trust

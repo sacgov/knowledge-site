@@ -1,7 +1,7 @@
 ---
 title: Evaluating Character
-date created: Saturday, June 10th 2023, 4:50:39 pm
-date modified: Tuesday, June 13th 2023, 11:41:14 pm
+createdDate: Saturday, June 10th 2023, 4:50:39 pm
+modifiedDate: Sunday, June 18th 2023, 11:10:32 pm
 ---
 
 # Evaluating Character

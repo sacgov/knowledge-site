@@ -1,7 +1,7 @@
 ---
 title: Foundation Regrets
-date created: Saturday, June 10th 2023, 6:47:02 pm
-date modified: Friday, June 16th 2023, 4:23:54 pm
+createdDate: Saturday, June 10th 2023, 6:47:02 pm
+modifiedDate: Sunday, June 18th 2023, 11:10:32 pm
 ---
 
 **Acknowledge that regret only exists with hindsight**

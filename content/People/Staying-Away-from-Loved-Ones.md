@@ -1,7 +1,7 @@
 ---
 title: Staying away from Loved Ones
-date created: Tuesday, June 13th 2023, 12:03:54 pm
-date modified: Friday, June 16th 2023, 12:02:58 pm
+createdDate: Tuesday, June 13th 2023, 12:03:54 pm
+modifiedDate: Sunday, June 18th 2023, 11:10:32 pm
 ---
 
 # Staying away from Loved Ones
@@ -29,7 +29,6 @@ Forming a close bond with cousins is even easier. Most of the values run within 
 Relationships are the single most deciding factor of happiness by large.
 Staying close to the community that welcomes us and does not see us as alien is important. It is for this very reason we see clustering of immigrants in other cities and countries.
 [Alone Experiences Do not matter](Living/Four-Thousand-Weeks.md#Alone%20Experiences)
-
 
 [A good life](Bytes/Links-Repository.md#What%20Makes%20a%20Good%20Life) is one that is filled with loving relations.
 

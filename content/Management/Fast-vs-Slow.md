@@ -1,7 +1,7 @@
 ---
 title: Fast Vs Slow
-date created: Tuesday, June 13th 2023, 7:22:09 pm
-date modified: Tuesday, June 13th 2023, 11:40:45 pm
+createdDate: Tuesday, June 13th 2023, 7:22:09 pm
+modifiedDate: Sunday, June 18th 2023, 11:05:02 pm
 ---
 
 # Fast Vs Slow

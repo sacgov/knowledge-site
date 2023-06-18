@@ -1,7 +1,7 @@
 ---
 title: Mark Manson
-date created: Tuesday, June 13th 2023, 11:23:44 am
-date modified: Sunday, June 18th 2023, 9:19:50 pm
+createdDate: Tuesday, June 13th 2023, 11:23:44 am
+modifiedDate: Sunday, June 18th 2023, 11:10:31 pm
 ---
 
 # Mark Manson

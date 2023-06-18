@@ -1,7 +1,7 @@
 ---
 title: Camus
-date created: Tuesday, June 13th 2023, 11:20:32 am
-date modified: Tuesday, June 13th 2023, 11:41:24 pm
+createdDate: Tuesday, June 13th 2023, 11:20:32 am
+modifiedDate: Sunday, June 18th 2023, 11:10:32 pm
 ---
 
 # Camus

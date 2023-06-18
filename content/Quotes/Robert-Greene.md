@@ -1,9 +1,10 @@
 ---
-title: Robert-Greene
-date created: Tuesday, June 13th 2023, 3:27:55 am
-date modified: Tuesday, June 13th 2023, 11:41:53 pm
+title: Robert Greene
+createdDate: Tuesday, June 13th 2023, 3:27:55 am
+modifiedDate: Sunday, June 18th 2023, 11:12:45 pm
 ---
 
+# Robert Greene
 
 1. Remember: You choose to let things bother you.
 2. Understand: People are locked in their own experiences.

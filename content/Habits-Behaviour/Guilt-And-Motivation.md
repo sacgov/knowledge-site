@@ -1,7 +1,7 @@
 ---
 title: Guilt and Motivation
-date created: Tuesday, June 13th 2023, 6:31:35 pm
-date modified: Friday, June 16th 2023, 4:25:43 pm
+createdDate: Tuesday, June 13th 2023, 6:31:35 pm
+modifiedDate: Sunday, June 18th 2023, 11:10:32 pm
 ---
 
 # Guilt and Motivation
@@ -193,7 +193,6 @@ I suggest you stop berating yourself for failing to complete impossible tasks, a
 Steering the future is a difficult thing. Let the monkey know that you have its back.
 
 In the past, you have failed to act as you wished to act. You have failed to make the best available choices. But these facts have little bearing on what you do next. Your memories still hold lessons that can teach you about how to better steer yourself to steer the world, but they do not say anything about the color of your soul. They are simply the background knowledge against which you move forwards, from here, looking only towards the future.
-
 
 # Rising up to the Challenge
 

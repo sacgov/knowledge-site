@@ -1,7 +1,7 @@
 ---
 title: Negotiation
-date created: Friday, June 16th 2023, 2:42:42 am
-date modified: Friday, June 16th 2023, 3:19:08 am
+createdDate: Friday, June 16th 2023, 2:42:42 am
+modifiedDate: Sunday, June 18th 2023, 11:10:31 pm
 ---
 
 # Negotiation

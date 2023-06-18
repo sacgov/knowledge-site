@@ -1,7 +1,7 @@
 ---
 title: Aetiology Vs Teleology
-date created: Tuesday, June 13th 2023, 2:50:59 am
-date modified: Tuesday, June 13th 2023, 2:52:31 am
+createdDate: Tuesday, June 13th 2023, 2:50:59 am
+modifiedDate: Sunday, June 18th 2023, 11:10:33 pm
 ---
 
 # Aetiology Vs Teleology

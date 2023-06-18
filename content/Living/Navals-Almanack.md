@@ -1,7 +1,7 @@
 ---
 title: "Naval 's Almanack"
-date created: Monday, June 12th 2023, 10:21:02 pm
-date modified: Tuesday, June 13th 2023, 2:02:13 pm
+createdDate: Monday, June 12th 2023, 10:21:02 pm
+modifiedDate: Sunday, June 18th 2023, 11:10:32 pm
 ---
 
 # Naval 's Almanack

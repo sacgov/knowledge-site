@@ -1,8 +1,10 @@
 ---
-title: Haikyuu!
-date created: Tuesday, June 13th 2023, 3:30:36 am
-date modified: Tuesday, June 13th 2023, 3:30:44 am
+title: Haikyuu
+createdDate: Tuesday, June 13th 2023, 3:30:36 am
+modifiedDate: Sunday, June 18th 2023, 11:13:23 pm
 ---
+
+# Haikyuu
 
 1. The future belongs to those who believe in the beauty of their dreams.
 2. The last ones standing are the victors. Only the strongest. If you want to be the last one standing become strong

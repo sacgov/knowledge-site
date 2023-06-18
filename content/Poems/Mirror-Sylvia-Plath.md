@@ -1,7 +1,7 @@
 ---
 title: Mirror - Sylvia Plath
-date created: Saturday, June 10th 2023, 3:46:33 pm
-date modified: Saturday, June 10th 2023, 3:47:08 pm
+createdDate: Saturday, June 10th 2023, 3:46:33 pm
+modifiedDate: Sunday, June 18th 2023, 11:10:32 pm
 ---
 
 # Mirror - Sylvia Plath

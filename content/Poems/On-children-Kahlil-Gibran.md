@@ -1,10 +1,10 @@
 ---
 title: On children - Kahlil Gibran
-date created: Saturday, June 10th 2023, 3:40:22 pm
-date modified: Saturday, June 10th 2023, 3:41:11 pm
+createdDate: Saturday, June 10th 2023, 3:40:22 pm
+modifiedDate: Sunday, June 18th 2023, 11:14:00 pm
 ---
 
-On children - Kahlil Gibran
+# On Children - Kahlil Gibran
 
 Your children are not your children.
 They are the sons and daughters of Life’s longing for itself.

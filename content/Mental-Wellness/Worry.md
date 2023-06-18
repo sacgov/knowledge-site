@@ -1,7 +1,7 @@
 ---
 title: Worry
-date created: Friday, June 16th 2023, 3:21:07 am
-date modified: Friday, June 16th 2023, 3:22:24 am
+createdDate: Friday, June 16th 2023, 3:21:07 am
+modifiedDate: Sunday, June 18th 2023, 11:10:32 pm
 ---
 
 # Worry

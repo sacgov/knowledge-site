@@ -1,7 +1,7 @@
 ---
 title: Dokkodo
-date created: Wednesday, June 7th 2023, 1:12:36 pm
-date modified: Thursday, June 15th 2023, 2:40:14 am
+createdDate: Wednesday, June 7th 2023, 1:12:36 pm
+modifiedDate: Sunday, June 18th 2023, 11:10:33 pm
 ---
 
 # Dokkodo

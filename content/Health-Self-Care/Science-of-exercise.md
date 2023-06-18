@@ -1,7 +1,7 @@
 ---
 title: Science of Exercise
-date created: Friday, June 16th 2023, 1:54:37 am
-date modified: Friday, June 16th 2023, 1:55:05 am
+createdDate: Friday, June 16th 2023, 1:54:37 am
+modifiedDate: Sunday, June 18th 2023, 11:10:32 pm
 ---
 
 # Science of Exercise

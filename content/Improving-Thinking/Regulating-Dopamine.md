@@ -1,7 +1,7 @@
 ---
 title: Regulating Dopamine
-date created: Monday, June 12th 2023, 7:39:56 pm
-date modified: Monday, June 12th 2023, 7:42:34 pm
+createdDate: Monday, June 12th 2023, 7:39:56 pm
+modifiedDate: Sunday, June 18th 2023, 11:10:32 pm
 ---
 
 # Regulating Dopamine

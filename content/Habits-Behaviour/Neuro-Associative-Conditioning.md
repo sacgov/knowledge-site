@@ -1,7 +1,7 @@
 ---
-title: Neuro-associative conditioning 
-date created: Friday, June 16th 2023, 3:34:58 am
-date modified: Friday, June 16th 2023, 3:36:28 am
+title: Neuro-associative Conditioning
+createdDate: Friday, June 16th 2023, 3:34:58 am
+modifiedDate: Sunday, June 18th 2023, 11:10:32 pm
 ---
 
 # Neuro-associative Conditioning

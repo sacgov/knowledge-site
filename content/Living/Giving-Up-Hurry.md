@@ -1,7 +1,7 @@
 ---
 title: Giving up Hurry
-date created: Saturday, June 10th 2023, 2:51:38 pm
-date modified: Tuesday, June 13th 2023, 11:40:12 pm
+createdDate: Saturday, June 10th 2023, 2:51:38 pm
+modifiedDate: Sunday, June 18th 2023, 11:10:32 pm
 ---
 
 # Giving up Hurry

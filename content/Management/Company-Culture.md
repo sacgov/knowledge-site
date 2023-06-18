@@ -1,7 +1,7 @@
 ---
 title: Company Culture
-date created: Saturday, June 10th 2023, 7:59:21 pm
-date modified: Saturday, June 17th 2023, 4:32:58 pm
+createdDate: Saturday, June 10th 2023, 7:59:21 pm
+modifiedDate: Sunday, June 18th 2023, 11:10:32 pm
 ---
 
 # Company Culture

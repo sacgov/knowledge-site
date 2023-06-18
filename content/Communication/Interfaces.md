@@ -1,13 +1,7 @@
 ---
 title: Interfaces
-date created: Friday, June 16th 2023, 12:02:30 pm
-date modified: Friday, June 16th 2023, 1:22:47 pm
----
-
----
-title: Interfaces
-date created: Friday, June 16th 2023, 11:38:16 am
-date modified: Friday, June 16th 2023, 11:41:21 am
+createdDate: Friday, June 16th 2023, 12:02:30 pm
+modifiedDate: Sunday, June 18th 2023, 11:10:33 pm
 ---
 
 # Interfaces

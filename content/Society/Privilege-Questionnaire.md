@@ -1,7 +1,7 @@
 ---
 title: Privilege
-date created: Monday, June 12th 2023, 10:02:51 pm
-date modified: Tuesday, June 13th 2023, 11:42:16 pm
+createdDate: Monday, June 12th 2023, 10:02:51 pm
+modifiedDate: Sunday, June 18th 2023, 11:10:31 pm
 ---
 
 # Privilege

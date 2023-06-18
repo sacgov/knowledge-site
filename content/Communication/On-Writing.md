@@ -1,7 +1,7 @@
 ---
 title: On Writing
-date created: Friday, June 16th 2023, 3:26:51 am
-date modified: Friday, June 16th 2023, 3:32:44 am
+createdDate: Friday, June 16th 2023, 3:26:51 am
+modifiedDate: Sunday, June 18th 2023, 11:10:33 pm
 ---
 
 # On Writing

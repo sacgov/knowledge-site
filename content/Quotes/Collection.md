@@ -1,7 +1,7 @@
 ---
 title: Collection of Quotes
-date created: Tuesday, June 13th 2023, 4:16:43 pm
-date modified: Tuesday, June 13th 2023, 4:17:05 pm
+createdDate: Tuesday, June 13th 2023, 4:16:43 pm
+modifiedDate: Sunday, June 18th 2023, 11:10:32 pm
 ---
 
 # Collection of Quotes

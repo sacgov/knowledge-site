@@ -1,7 +1,7 @@
 ---
 title: Acceptance
-date created: Saturday, June 10th 2023, 2:49:24 pm
-date modified: Friday, June 16th 2023, 4:22:27 pm
+createdDate: Saturday, June 10th 2023, 2:49:24 pm
+modifiedDate: Sunday, June 18th 2023, 11:10:32 pm
 ---
 
 # Acceptance
@@ -139,8 +139,6 @@ When you find yourself in a dark place where you’ve been countless times, you 
 ## Compassion
 
 It is unconditional compassion for ourselves that leads naturally to unconditional compassion for others. If we are willing to stand fully in our own shoes and never give up on ourselves, then we will be able to put ourselves in the shoes of others and never give up on them
-
-
 
 No escape, no problem - Practice Tonglen
 

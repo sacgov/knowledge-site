@@ -1,7 +1,7 @@
 ---
 title: What I Do Currently
-date created: Wednesday, June 7th 2023, 11:08:35 am
-date modified: Tuesday, June 13th 2023, 11:38:11 pm
+createdDate: Wednesday, June 7th 2023, 11:08:35 am
+modifiedDate: Sunday, June 18th 2023, 11:10:32 pm
 ---
 
 My goal is healthy skin with minimal wrinkles, with a slight glow.
@@ -27,8 +27,8 @@ Skin works to keep things out. We want the ingredients in skin care products we 
 
 Basics of skin routine
 
-https://www.dermstore.com/blog/in-what-order-do-i-apply-my-skin-care-products-infographic/
+<https://www.dermstore.com/blog/in-what-order-do-i-apply-my-skin-care-products-infographic/>
 
-https://www.youtube.com/watch?v=vM9rX3SqB34
+<https://www.youtube.com/watch?v=vM9rX3SqB34>
 
 Setup charts
