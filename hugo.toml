@@ -1,4 +1,10 @@
-baseURL = 'https://notes.sachingovind.com/'
+baseURL = "https://notes.sachingovind.com/"
 languageCode=  "en-us"
 title= "Sachin's Notes"
 theme= "hugo-book"
+
+[params]
+  BookLogo = "favicon.png"
+  CustomJS = ["js/link-preview.js"]
+  CustomCSS = ["css/link-preview.css"]
+  BookSection = "*"
