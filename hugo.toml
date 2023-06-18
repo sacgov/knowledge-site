@@ -2,9 +2,17 @@ baseURL = "https://notes.sachingovind.com/"
 languageCode=  "en-us"
 title= "Sachin's Notes"
 theme= "hugo-book"
+googleAnalytics = "G-W008R0K06X"
 
 [params]
   BookLogo = "favicon.png"
   CustomJS = ["js/link-preview.js"]
   CustomCSS = ["css/link-preview.css"]
   BookSection = "*"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      hardWraps = true
+      unsafe = false
+      xhtml = false
