@@ -87,7 +87,7 @@ export default class Publisher {
 	writeText(dirPath: string, filePath: string, content: string) {
 
 		filePath = `${dirPath}/${filePath}`
-		new Notice(filePath, 1000)
+		// new Notice(filePath, 1000)
 		fse.ensureFileSync(filePath)
 		fse.truncateSync(filePath)
 		fse.writeFileSync(filePath, content)
@@ -263,11 +263,19 @@ export default class Publisher {
 
 					const textInsideBrackets = linkMatch.substring(linkMatch.indexOf('[') + 2, linkMatch.lastIndexOf(']') - 1);
 					let [linkedFileName, prettyName] = textInsideBrackets.split("|");
+
+					// sanitizing names
+
 					if (linkedFileName.endsWith("\\")) {
 						linkedFileName = linkedFileName.substring(0, linkedFileName.length - 1);
 					}
 
 					prettyName = prettyName || linkedFileName;
+
+					linkedFileName = linkedFileName.replace(/%20/g, ' ');
+					linkedFileName = linkedFileName.trim();
+					prettyName = prettyName.trim();
+
 					let headerPath = "";
 					if (linkedFileName.includes("#")) {
 						const headerSplit = linkedFileName.split("#");
@@ -278,18 +286,29 @@ export default class Publisher {
 					}
 					const fullLinkedFilePath = getLinkpath(linkedFileName);
 					const linkedFile = this.metadataCache.getFirstLinkpathDest(fullLinkedFilePath, filePath);
+					let linkPath = ''
 					if (!linkedFile) {
-						// const replaceValue = `[[${linkedFileName}${headerPath}\\|${prettyName}]]`
-						let linkPath = `${linkedFileName}${headerPath}`.toLowerCase();
-						let replaceValue = `[${prettyName}](/${linkPath})`
-						convertedText = convertedText.replace(linkMatch, replaceValue);
+						linkPath = `${linkedFileName}${headerPath}`;
+						linkPath = linkPath.trim();
+					} else {
+						let extensionlessPath = linkedFile.path
+						if (linkedFile.extension === "md") {
+							extensionlessPath = linkedFile.path.substring(0, linkedFile.path.lastIndexOf('.'));
+						}
+						const SEPARATOR = '-'
+
+						linkPath = linkPath.trim();
+						linkPath = `${extensionlessPath}${headerPath}`;
+						linkPath = linkPath.toLowerCase();
+						linkPath = linkPath.replace(/\s/g, SEPARATOR);
+
 					}
-					if (linkedFile?.extension === "md") {
-						const extensionlessPath = linkedFile.path.substring(0, linkedFile.path.lastIndexOf('.'));
-						let linkPath = `${extensionlessPath}${headerPath}`.toLowerCase();
-						let replaceValue = `[${prettyName}](/${linkPath})`
-						convertedText = convertedText.replace(linkMatch, replaceValue);
-					}
+
+					
+					let replaceValue = `[${prettyName}](/${linkPath})`
+					linkedFileName = linkedFileName.trim();
+
+					convertedText = convertedText.replace(linkMatch, replaceValue);
 				} catch (e) {
 					console.log(e);
 					continue;
