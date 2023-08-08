@@ -46,3 +46,4 @@ The plugin adds a command export-notes to obsidian's command palette
 
 
 
+

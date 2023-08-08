@@ -17,13 +17,6 @@ export default class DigitalGarden extends Plugin {
 				await this.exportNotes();
 			}
 		});
-		this.addCommand({
-			id: 'export-debug',
-			name: 'Debug Notes',
-			callback: async () => {
-				await this.debug();
-			}
-		});
 
 	}
 
